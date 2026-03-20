@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VibeKeys - Your Key to Today's Hottest Tech Deals</title>
+  <meta name="description" content="Unlock the best tech deals every day. Save big on electronics, software, gaming gear, smart home devices, and more!">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9902886208446482" crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="logo">
+          <span class="logo-icon">🔑</span>
+          Vibe<span>Keys</span>
+        </a>
+        <form class="header-search" action="search.html" method="get">
+          <input type="text" name="q" placeholder="Search deals...">
+          <button type="submit">Search</button>
+        </form>
+        <button class="mobile-menu-btn" onclick="toggleMenu()">☰</button>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ul id="nav-menu">
+          <li><a href="index.html" class="active">🏠 Home</a></li>
+          <li><a href="electronics.html">📱 Electronics</a></li>
+          <li><a href="software.html">💻 Software</a></li>
+          <li><a href="gaming.html">🎮 Gaming</a></li>
+          <li><a href="smart-home.html">🏡 Smart Home</a></li>
+          <li><a href="pc-parts.html">🖥️ PC Parts</a></li>
+          <li><a href="mobile.html">📲 Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>🔑 Unlock Today's Best Deal</h1>
+      <p>Your key to the best prices</p>
+      
+      <div class="featured-deal">
+        <img src="images/featured-deal.jpg" alt="Amazon Echo Dot 5th Gen" onerror="this.style.background='linear-gradient(135deg, #7C3AED, #EC4899)'; this.style.display='flex';">
+        <div class="featured-deal-info">
+          <span class="category">⚡ Lightning Deal</span>
+          <h2>Amazon Echo Dot (5th Gen) with Clock - Smart Speaker with Alexa</h2>
+          <div class="price-box">
+            <span class="price-current">$29.99</span>
+            <span class="price-original">$59.99</span>
+            <span class="discount-badge">-50% OFF</span>
+          </div>
+          <p>The best-sounding Echo Dot yet with a vibrant LED clock display. Stream music, control your smart home, get weather updates, and more.</p>
+          <a href="article1.html" class="btn btn-primary">🛒 Get This Deal →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="main-content">
+      <div class="content">
+        <h2 class="section-title">Today's Top Deals</h2>
+        
+        <div class="deals-grid">
+          <!-- Deal 1 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-50%</span>
+              <span class="deal-card-category">Smart Home</span>
+              <img src="images/deal1.jpg" alt="Echo Dot" onerror="this.parentElement.style.background='linear-gradient(135deg, #667eea, #764ba2)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article1.html">Amazon Echo Dot 5th Gen with Clock - Smart Speaker</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$29.99</span>
+                <span class="deal-card-original">$59.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>2h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deal 2 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-67%</span>
+              <span class="deal-card-category">Software</span>
+              <img src="images/deal2.jpg" alt="Office 365" onerror="this.parentElement.style.background='linear-gradient(135deg, #f093fb, #f5576c)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article2.html">Microsoft 365 Family - 15 Month Subscription (6 Users)</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$69.99</span>
+                <span class="deal-card-original">$214.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>3h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deal 3 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-40%</span>
+              <span class="deal-card-category">Gaming</span>
+              <img src="images/deal3.jpg" alt="Gaming Headset" onerror="this.parentElement.style.background='linear-gradient(135deg, #4facfe, #00f2fe)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article3.html">HyperX Cloud III - Wired Gaming Headset with 53mm Drivers</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$59.99</span>
+                <span class="deal-card-original">$99.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Best Buy</span>
+                <span>4h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deal 4 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-55%</span>
+              <span class="deal-card-category">Smart Home</span>
+              <img src="images/deal4.jpg" alt="Ring Doorbell" onerror="this.parentElement.style.background='linear-gradient(135deg, #43e97b, #38f9d7)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article4.html">Ring Video Doorbell Pro 2 with 3D Motion Detection</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$109.99</span>
+                <span class="deal-card-original">$249.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>5h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deal 5 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-30%</span>
+              <span class="deal-card-category">PC Parts</span>
+              <img src="images/deal5.jpg" alt="RTX 4070" onerror="this.parentElement.style.background='linear-gradient(135deg, #fa709a, #fee140)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article5.html">NVIDIA GeForce RTX 4070 Super 12GB Graphics Card</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$489.99</span>
+                <span class="deal-card-original">$699.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Newegg</span>
+                <span>6h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deal 6 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-35%</span>
+              <span class="deal-card-category">Mobile</span>
+              <img src="images/deal6.jpg" alt="Samsung Galaxy" onerror="this.parentElement.style.background='linear-gradient(135deg, #a18cd1, #fbc2eb)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article6.html">Samsung Galaxy S24 Ultra 256GB - Unlocked Smartphone</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$849.99</span>
+                <span class="deal-card-original">$1299.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Samsung</span>
+                <span>8h ago</span>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <div class="ad-container">
+          <!-- Ad placeholder -->
+          Advertisement
+        </div>
+
+        <h2 class="section-title mt-20">More Hot Deals</h2>
+        
+        <div class="deals-grid">
+          <!-- Deal 7 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-45%</span>
+              <span class="deal-card-category">Electronics</span>
+              <img src="images/deal7.jpg" alt="Sony Headphones" onerror="this.parentElement.style.background='linear-gradient(135deg, #667eea, #764ba2)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article7.html">Sony WH-1000XM5 Wireless Noise Canceling Headphones</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$219.99</span>
+                <span class="deal-card-original">$399.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>10h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deal 8 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-60%</span>
+              <span class="deal-card-category">Software</span>
+              <img src="images/deal8.jpg" alt="Adobe Creative Cloud" onerror="this.parentElement.style.background='linear-gradient(135deg, #ff6b6b, #feca57)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article8.html">Adobe Creative Cloud All Apps - 1 Year Subscription</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$329.99</span>
+                <span class="deal-card-original">$659.88</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Adobe</span>
+                <span>12h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deal 9 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-25%</span>
+              <span class="deal-card-category">PC Parts</span>
+              <img src="images/deal9.jpg" alt="Laptop" onerror="this.parentElement.style.background='linear-gradient(135deg, #5ee7df, #b490ca)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article9.html">ASUS ROG Zephyrus G14 Gaming Laptop - RTX 4060, 16GB RAM</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$1,199.99</span>
+                <span class="deal-card-original">$1,599.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Best Buy</span>
+                <span>14h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deal 10 -->
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-42%</span>
+              <span class="deal-card-category">Gaming</span>
+              <img src="images/deal10.jpg" alt="PS5 Controller" onerror="this.parentElement.style.background='linear-gradient(135deg, #6a11cb, #2575fc)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article10.html">PlayStation DualSense Edge Wireless Controller - Pro Gaming</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$139.99</span>
+                <span class="deal-card-original">$199.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 PlayStation</span>
+                <span>16h ago</span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <aside class="sidebar">
+        <div class="sidebar-widget newsletter-widget">
+          <h3>🔔 Never Miss a Deal</h3>
+          <p>Get the hottest deals delivered to your inbox daily!</p>
+          <form class="newsletter-form">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe Free</button>
+          </form>
+        </div>
+
+        <div class="sidebar-widget">
+          <h3>🔥 Trending Now</h3>
+          <ul class="trending-list">
+            <li>
+              <span class="trending-number">1</span>
+              <div class="trending-info">
+                <h4><a href="article1.html">Echo Dot 5th Gen</a></h4>
+                <span>$29.99 (50% off)</span>
+              </div>
+            </li>
+            <li>
+              <span class="trending-number">2</span>
+              <div class="trending-info">
+                <h4><a href="article5.html">RTX 4070 Super</a></h4>
+                <span>$489.99 (30% off)</span>
+              </div>
+            </li>
+            <li>
+              <span class="trending-number">3</span>
+              <div class="trending-info">
+                <h4><a href="article2.html">Microsoft 365 Family</a></h4>
+                <span>$69.99 (67% off)</span>
+              </div>
+            </li>
+            <li>
+              <span class="trending-number">4</span>
+              <div class="trending-info">
+                <h4><a href="article7.html">Sony WH-1000XM5</a></h4>
+                <span>$219.99 (45% off)</span>
+              </div>
+            </li>
+            <li>
+              <span class="trending-number">5</span>
+              <div class="trending-info">
+                <h4><a href="article9.html">ASUS ROG Zephyrus</a></h4>
+                <span>$1,199.99 (25% off)</span>
+              </div>
+            </li>
+          </ul>
+        </div>
+
+        <div class="sidebar-widget">
+          <h3>📁 Categories</h3>
+          <ul class="categories-list">
+            <li><a href="electronics.html">📱 Electronics <span>24</span></a></li>
+            <li><a href="software.html">💻 Software <span>18</span></a></li>
+            <li><a href="gaming.html">🎮 Gaming <span>32</span></a></li>
+            <li><a href="smart-home.html">🏡 Smart Home <span>15</span></a></li>
+            <li><a href="pc-parts.html">🖥️ PC Parts <span>28</span></a></li>
+            <li><a href="mobile.html">📲 Mobile <span>21</span></a></li>
+          </ul>
+        </div>
+
+        <div class="ad-container">
+          <!-- Sidebar Ad -->
+          Advertisement
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h4>VibeKeys</h4>
+          <p style="color: var(--gray); margin-bottom: 15px;">Your key to the best tech deals, discounts, and steals across the web.</p>
+          <div class="social-links">
+            <a href="#" title="Twitter">𝕏</a>
+            <a href="#" title="Facebook">f</a>
+            <a href="#" title="Instagram">📷</a>
+            <a href="#" title="RSS">📡</a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h4>Categories</h4>
+          <ul>
+            <li><a href="electronics.html">Electronics</a></li>
+            <li><a href="software.html">Software</a></li>
+            <li><a href="gaming.html">Gaming</a></li>
+            <li><a href="smart-home.html">Smart Home</a></li>
+            <li><a href="pc-parts.html">PC Parts</a></li>
+            <li><a href="mobile.html">Mobile</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="search.html">Search Deals</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Submit a Deal</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Legal</h4>
+          <ul>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Terms of Service</a></li>
+            <li><a href="#">Affiliate Disclosure</a></li>
+            <li><a href="#">Cookie Policy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 VibeKeys. All rights reserved. Prices and availability subject to change.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('nav-menu').classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

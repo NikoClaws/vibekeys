@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Home Deals - VibeKeys</title>
+  <meta name="description" content="Best smart home deals on doorbells, thermostats, lights, cameras, and home automation devices.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="logo">
+          <span class="logo-icon">🔑</span>
+          Vibe<span>Keys</span>
+        </a>
+        <form class="header-search" action="search.html" method="get">
+          <input type="text" name="q" placeholder="Search deals...">
+          <button type="submit">Search</button>
+        </form>
+        <button class="mobile-menu-btn" onclick="toggleMenu()">☰</button>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ul id="nav-menu">
+          <li><a href="index.html">🏠 Home</a></li>
+          <li><a href="electronics.html">📱 Electronics</a></li>
+          <li><a href="software.html">💻 Software</a></li>
+          <li><a href="gaming.html">🎮 Gaming</a></li>
+          <li><a href="smart-home.html" class="active">🏡 Smart Home</a></li>
+          <li><a href="pc-parts.html">🖥️ PC Parts</a></li>
+          <li><a href="mobile.html">📲 Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="category-header">
+    <div class="container">
+      <div class="category-icon">🏡</div>
+      <h1>Smart Home Deals</h1>
+      <p>Automate your home with the best smart device deals</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="main-content">
+      <div class="content">
+        <h2 class="section-title">Latest Smart Home Deals</h2>
+        
+        <div class="deals-grid">
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-50%</span>
+              <span class="deal-card-category">Smart Speaker</span>
+              <img src="images/deal1.jpg" alt="Echo Dot" onerror="this.parentElement.style.background='linear-gradient(135deg, #667eea, #764ba2)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article1.html">Amazon Echo Dot 5th Gen with Clock - Smart Speaker</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$29.99</span>
+                <span class="deal-card-original">$59.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>2h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-55%</span>
+              <span class="deal-card-category">Doorbell</span>
+              <img src="images/deal4.jpg" alt="Ring Doorbell" onerror="this.parentElement.style.background='linear-gradient(135deg, #43e97b, #38f9d7)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article4.html">Ring Video Doorbell Pro 2 with 3D Motion Detection</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$109.99</span>
+                <span class="deal-card-original">$249.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>5h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-40%</span>
+              <span class="deal-card-category">Thermostat</span>
+              <img src="images/placeholder.jpg" alt="Nest Thermostat" onerror="this.parentElement.style.background='linear-gradient(135deg, #f093fb, #f5576c)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Google Nest Learning Thermostat 4th Gen</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$179.99</span>
+                <span class="deal-card-original">$299.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Google</span>
+                <span>6h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-45%</span>
+              <span class="deal-card-category">Camera</span>
+              <img src="images/placeholder.jpg" alt="Blink Camera" onerror="this.parentElement.style.background='linear-gradient(135deg, #4facfe, #00f2fe)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Blink Outdoor 4 Security Camera - 3 Camera System</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$149.99</span>
+                <span class="deal-card-original">$279.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>8h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-35%</span>
+              <span class="deal-card-category">Lighting</span>
+              <img src="images/placeholder.jpg" alt="Philips Hue" onerror="this.parentElement.style.background='linear-gradient(135deg, #fa709a, #fee140)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Philips Hue White & Color Starter Kit (4 Bulbs + Bridge)</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$129.99</span>
+                <span class="deal-card-original">$199.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Best Buy</span>
+                <span>10h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-38%</span>
+              <span class="deal-card-category">Lock</span>
+              <img src="images/placeholder.jpg" alt="August Lock" onerror="this.parentElement.style.background='linear-gradient(135deg, #a18cd1, #fbc2eb)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">August Wi-Fi Smart Lock 4th Gen with Keypad</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$199.99</span>
+                <span class="deal-card-original">$329.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>14h ago</span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <aside class="sidebar">
+        <div class="sidebar-widget">
+          <h3>📁 All Categories</h3>
+          <ul class="categories-list">
+            <li><a href="electronics.html">📱 Electronics <span>24</span></a></li>
+            <li><a href="software.html">💻 Software <span>18</span></a></li>
+            <li><a href="gaming.html">🎮 Gaming <span>32</span></a></li>
+            <li><a href="smart-home.html" class="active">🏡 Smart Home <span>15</span></a></li>
+            <li><a href="pc-parts.html">🖥️ PC Parts <span>28</span></a></li>
+            <li><a href="mobile.html">📲 Mobile <span>21</span></a></li>
+          </ul>
+        </div>
+
+        <div class="sidebar-widget newsletter-widget">
+          <h3>🔔 Deal Alerts</h3>
+          <p>Get notified for Smart Home deals!</p>
+          <form class="newsletter-form">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-bottom">
+        <p>&copy; 2025 VibeKeys. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('nav-menu').classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

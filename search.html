@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Deals - VibeKeys</title>
+  <meta name="description" content="Search for the best tech deals, discounts, and sales.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="logo">
+          <span class="logo-icon">🔑</span>
+          Vibe<span>Keys</span>
+        </a>
+        <form class="header-search" action="search.html" method="get">
+          <input type="text" name="q" placeholder="Search deals..." id="header-search-input">
+          <button type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ul id="nav-menu">
+          <li><a href="index.html">🏠 Home</a></li>
+          <li><a href="electronics.html">📱 Electronics</a></li>
+          <li><a href="software.html">💻 Software</a></li>
+          <li><a href="gaming.html">🎮 Gaming</a></li>
+          <li><a href="smart-home.html">🏡 Smart Home</a></li>
+          <li><a href="pc-parts.html">🖥️ PC Parts</a></li>
+          <li><a href="mobile.html">📲 Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main class="search-container">
+    <h1>🔍 Search Deals</h1>
+    
+    <form class="search-box" id="search-form">
+      <input type="text" id="search-input" placeholder="Search for deals, products, categories..." autofocus>
+      <button type="submit">Search</button>
+    </form>
+
+    <div id="search-status"></div>
+
+    <ul class="search-results" id="search-results">
+      <!-- Results populated by JavaScript -->
+    </ul>
+
+    <div id="no-results" class="hidden" style="text-align: center; padding: 40px;">
+      <h2>😕 No deals found</h2>
+      <p>Try searching for something else, or browse our categories above.</p>
+    </div>
+
+    <div id="initial-state" style="text-align: center; padding: 40px;">
+      <h2>🔥 Popular Searches</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
+        <a href="?q=echo" class="btn btn-outline">Echo Dot</a>
+        <a href="?q=rtx" class="btn btn-outline">RTX Graphics Cards</a>
+        <a href="?q=headphones" class="btn btn-outline">Headphones</a>
+        <a href="?q=microsoft" class="btn btn-outline">Microsoft 365</a>
+        <a href="?q=samsung" class="btn btn-outline">Samsung</a>
+        <a href="?q=gaming" class="btn btn-outline">Gaming Gear</a>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-bottom">
+        <p>&copy; 2025 VibeKeys. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Search index - in production, this would be search-index.json
+    const searchIndex = [
+      {
+        title: "Amazon Echo Dot 5th Gen with Clock",
+        url: "article1.html",
+        category: "Smart Home",
+        price: "$29.99",
+        original: "$59.99",
+        discount: "50%",
+        keywords: "echo dot alexa amazon smart speaker clock"
+      },
+      {
+        title: "Microsoft 365 Family - 15 Month Subscription",
+        url: "article2.html",
+        category: "Software",
+        price: "$69.99",
+        original: "$214.99",
+        discount: "67%",
+        keywords: "microsoft office 365 word excel powerpoint subscription"
+      },
+      {
+        title: "HyperX Cloud III Gaming Headset",
+        url: "article3.html",
+        category: "Gaming",
+        price: "$59.99",
+        original: "$99.99",
+        discount: "40%",
+        keywords: "hyperx cloud gaming headset headphones audio"
+      },
+      {
+        title: "Ring Video Doorbell Pro 2",
+        url: "article4.html",
+        category: "Smart Home",
+        price: "$109.99",
+        original: "$249.99",
+        discount: "55%",
+        keywords: "ring doorbell video camera smart home security"
+      },
+      {
+        title: "NVIDIA GeForce RTX 4070 Super 12GB",
+        url: "article5.html",
+        category: "PC Parts",
+        price: "$489.99",
+        original: "$699.99",
+        discount: "30%",
+        keywords: "nvidia rtx 4070 graphics card gpu gaming"
+      },
+      {
+        title: "Samsung Galaxy S24 Ultra 256GB",
+        url: "article6.html",
+        category: "Mobile",
+        price: "$849.99",
+        original: "$1,299.99",
+        discount: "35%",
+        keywords: "samsung galaxy s24 ultra phone smartphone android"
+      },
+      {
+        title: "Sony WH-1000XM5 Wireless Headphones",
+        url: "article7.html",
+        category: "Electronics",
+        price: "$219.99",
+        original: "$399.99",
+        discount: "45%",
+        keywords: "sony wh1000xm5 headphones noise canceling wireless bluetooth"
+      },
+      {
+        title: "Adobe Creative Cloud All Apps - 1 Year",
+        url: "article8.html",
+        category: "Software",
+        price: "$329.99",
+        original: "$659.88",
+        discount: "60%",
+        keywords: "adobe creative cloud photoshop illustrator premiere"
+      },
+      {
+        title: "ASUS ROG Zephyrus G14 Gaming Laptop",
+        url: "article9.html",
+        category: "PC Parts",
+        price: "$1,199.99",
+        original: "$1,599.99",
+        discount: "25%",
+        keywords: "asus rog zephyrus laptop gaming rtx notebook"
+      },
+      {
+        title: "PlayStation DualSense Edge Controller",
+        url: "article10.html",
+        category: "Gaming",
+        price: "$139.99",
+        original: "$199.99",
+        discount: "30%",
+        keywords: "playstation dualsense edge controller ps5 gaming"
+      }
+    ];
+
+    const searchInput = document.getElementById('search-input');
+    const searchForm = document.getElementById('search-form');
+    const resultsContainer = document.getElementById('search-results');
+    const noResults = document.getElementById('no-results');
+    const initialState = document.getElementById('initial-state');
+    const searchStatus = document.getElementById('search-status');
+
+    // Get query from URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const queryParam = urlParams.get('q');
+    if (queryParam) {
+      searchInput.value = queryParam;
+      performSearch(queryParam);
+    }
+
+    searchForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      const query = searchInput.value.trim();
+      if (query) {
+        window.history.pushState({}, '', `?q=${encodeURIComponent(query)}`);
+        performSearch(query);
+      }
+    });
+
+    function performSearch(query) {
+      const q = query.toLowerCase();
+      initialState.classList.add('hidden');
+      
+      const results = searchIndex.filter(item => {
+        return item.title.toLowerCase().includes(q) ||
+               item.category.toLowerCase().includes(q) ||
+               item.keywords.toLowerCase().includes(q);
+      });
+
+      if (results.length === 0) {
+        resultsContainer.innerHTML = '';
+        noResults.classList.remove('hidden');
+        searchStatus.innerHTML = `<p style="color: var(--gray);">No results for "${query}"</p>`;
+      } else {
+        noResults.classList.add('hidden');
+        searchStatus.innerHTML = `<p style="color: var(--gray);">Found ${results.length} deal${results.length > 1 ? 's' : ''} for "${query}"</p>`;
+        
+        resultsContainer.innerHTML = results.map(item => `
+          <li class="search-result">
+            <h3><a href="${item.url}">${item.title}</a></h3>
+            <p>Category: ${item.category} • ${item.discount} off</p>
+            <p class="price">${item.price} <span style="text-decoration: line-through; color: var(--gray);">${item.original}</span></p>
+          </li>
+        `).join('');
+      }
+    }
+  </script>
+</body>
+</html>

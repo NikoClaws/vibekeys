@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobile Deals - VibeKeys</title>
+  <meta name="description" content="Best smartphone and tablet deals. Save on iPhone, Samsung Galaxy, iPad, and mobile accessories.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="logo">
+          <span class="logo-icon">🔑</span>
+          Vibe<span>Keys</span>
+        </a>
+        <form class="header-search" action="search.html" method="get">
+          <input type="text" name="q" placeholder="Search deals...">
+          <button type="submit">Search</button>
+        </form>
+        <button class="mobile-menu-btn" onclick="toggleMenu()">☰</button>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ul id="nav-menu">
+          <li><a href="index.html">🏠 Home</a></li>
+          <li><a href="electronics.html">📱 Electronics</a></li>
+          <li><a href="software.html">💻 Software</a></li>
+          <li><a href="gaming.html">🎮 Gaming</a></li>
+          <li><a href="smart-home.html">🏡 Smart Home</a></li>
+          <li><a href="pc-parts.html">🖥️ PC Parts</a></li>
+          <li><a href="mobile.html" class="active">📲 Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="category-header">
+    <div class="container">
+      <div class="category-icon">📲</div>
+      <h1>Mobile Deals</h1>
+      <p>Best deals on smartphones, tablets & mobile accessories</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="main-content">
+      <div class="content">
+        <h2 class="section-title">Latest Mobile Deals</h2>
+        
+        <div class="deals-grid">
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-35%</span>
+              <span class="deal-card-category">Smartphone</span>
+              <img src="images/deal6.jpg" alt="Samsung Galaxy" onerror="this.parentElement.style.background='linear-gradient(135deg, #a18cd1, #fbc2eb)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article6.html">Samsung Galaxy S24 Ultra 256GB - Unlocked</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$849.99</span>
+                <span class="deal-card-original">$1,299.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Samsung</span>
+                <span>8h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-20%</span>
+              <span class="deal-card-category">Smartphone</span>
+              <img src="images/placeholder.jpg" alt="iPhone 15 Pro" onerror="this.parentElement.style.background='linear-gradient(135deg, #667eea, #764ba2)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Apple iPhone 15 Pro 256GB - Unlocked</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$879.00</span>
+                <span class="deal-card-original">$1,099.00</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Apple</span>
+                <span>4h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-25%</span>
+              <span class="deal-card-category">Tablet</span>
+              <img src="images/placeholder.jpg" alt="iPad Pro" onerror="this.parentElement.style.background='linear-gradient(135deg, #f093fb, #f5576c)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Apple iPad Pro 11" M4 256GB WiFi</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$749.00</span>
+                <span class="deal-card-original">$999.00</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Best Buy</span>
+                <span>6h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-40%</span>
+              <span class="deal-card-category">Smartphone</span>
+              <img src="images/placeholder.jpg" alt="Pixel 8 Pro" onerror="this.parentElement.style.background='linear-gradient(135deg, #4facfe, #00f2fe)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Google Pixel 8 Pro 256GB - Unlocked</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$599.00</span>
+                <span class="deal-card-original">$999.00</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Google</span>
+                <span>10h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-30%</span>
+              <span class="deal-card-category">Watch</span>
+              <img src="images/placeholder.jpg" alt="Apple Watch" onerror="this.parentElement.style.background='linear-gradient(135deg, #43e97b, #38f9d7)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Apple Watch Series 9 GPS 45mm Aluminum</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$279.00</span>
+                <span class="deal-card-original">$399.00</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>12h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-50%</span>
+              <span class="deal-card-category">Charger</span>
+              <img src="images/placeholder.jpg" alt="MagSafe Charger" onerror="this.parentElement.style.background='linear-gradient(135deg, #fa709a, #fee140)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Anker 3-in-1 MagSafe Charging Station with Apple Watch</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$64.99</span>
+                <span class="deal-card-original">$129.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>18h ago</span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <aside class="sidebar">
+        <div class="sidebar-widget">
+          <h3>📁 All Categories</h3>
+          <ul class="categories-list">
+            <li><a href="electronics.html">📱 Electronics <span>24</span></a></li>
+            <li><a href="software.html">💻 Software <span>18</span></a></li>
+            <li><a href="gaming.html">🎮 Gaming <span>32</span></a></li>
+            <li><a href="smart-home.html">🏡 Smart Home <span>15</span></a></li>
+            <li><a href="pc-parts.html">🖥️ PC Parts <span>28</span></a></li>
+            <li><a href="mobile.html" class="active">📲 Mobile <span>21</span></a></li>
+          </ul>
+        </div>
+
+        <div class="sidebar-widget newsletter-widget">
+          <h3>🔔 Deal Alerts</h3>
+          <p>Get notified for Mobile deals!</p>
+          <form class="newsletter-form">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-bottom">
+        <p>&copy; 2025 VibeKeys. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('nav-menu').classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

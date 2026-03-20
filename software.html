@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Software Deals - VibeKeys</title>
+  <meta name="description" content="Best software deals and license discounts. Save on Microsoft Office, Adobe Creative Cloud, antivirus, and more.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="logo">
+          <span class="logo-icon">🔑</span>
+          Vibe<span>Keys</span>
+        </a>
+        <form class="header-search" action="search.html" method="get">
+          <input type="text" name="q" placeholder="Search deals...">
+          <button type="submit">Search</button>
+        </form>
+        <button class="mobile-menu-btn" onclick="toggleMenu()">☰</button>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ul id="nav-menu">
+          <li><a href="index.html">🏠 Home</a></li>
+          <li><a href="electronics.html">📱 Electronics</a></li>
+          <li><a href="software.html" class="active">💻 Software</a></li>
+          <li><a href="gaming.html">🎮 Gaming</a></li>
+          <li><a href="smart-home.html">🏡 Smart Home</a></li>
+          <li><a href="pc-parts.html">🖥️ PC Parts</a></li>
+          <li><a href="mobile.html">📲 Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="category-header">
+    <div class="container">
+      <div class="category-icon">💻</div>
+      <h1>Software Deals</h1>
+      <p>Best discounts on productivity, creative & security software</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="main-content">
+      <div class="content">
+        <h2 class="section-title">Latest Software Deals</h2>
+        
+        <div class="deals-grid">
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-67%</span>
+              <span class="deal-card-category">Productivity</span>
+              <img src="images/deal2.jpg" alt="Office 365" onerror="this.parentElement.style.background='linear-gradient(135deg, #f093fb, #f5576c)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article2.html">Microsoft 365 Family - 15 Month Subscription (6 Users)</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$69.99</span>
+                <span class="deal-card-original">$214.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>3h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-60%</span>
+              <span class="deal-card-category">Creative</span>
+              <img src="images/deal8.jpg" alt="Adobe CC" onerror="this.parentElement.style.background='linear-gradient(135deg, #ff6b6b, #feca57)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article8.html">Adobe Creative Cloud All Apps - 1 Year Subscription</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$329.99</span>
+                <span class="deal-card-original">$659.88</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Adobe</span>
+                <span>12h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-70%</span>
+              <span class="deal-card-category">Security</span>
+              <img src="images/placeholder.jpg" alt="Norton" onerror="this.parentElement.style.background='linear-gradient(135deg, #667eea, #764ba2)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Norton 360 Deluxe - 5 Devices, 1 Year + VPN</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$29.99</span>
+                <span class="deal-card-original">$99.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Norton</span>
+                <span>6h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-50%</span>
+              <span class="deal-card-category">VPN</span>
+              <img src="images/placeholder.jpg" alt="NordVPN" onerror="this.parentElement.style.background='linear-gradient(135deg, #4facfe, #00f2fe)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">NordVPN 2-Year Plan + 3 Months Free</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$89.00</span>
+                <span class="deal-card-original">$286.83</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 NordVPN</span>
+                <span>8h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-40%</span>
+              <span class="deal-card-category">Password</span>
+              <img src="images/placeholder.jpg" alt="1Password" onerror="this.parentElement.style.background='linear-gradient(135deg, #43e97b, #38f9d7)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">1Password Families - 1 Year (5 Users)</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$29.99</span>
+                <span class="deal-card-original">$59.88</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 1Password</span>
+                <span>10h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-55%</span>
+              <span class="deal-card-category">Video</span>
+              <img src="images/placeholder.jpg" alt="Wondershare" onerror="this.parentElement.style.background='linear-gradient(135deg, #fa709a, #fee140)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Wondershare Filmora 13 - Lifetime License</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$69.99</span>
+                <span class="deal-card-original">$149.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Wondershare</span>
+                <span>14h ago</span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <aside class="sidebar">
+        <div class="sidebar-widget">
+          <h3>📁 All Categories</h3>
+          <ul class="categories-list">
+            <li><a href="electronics.html">📱 Electronics <span>24</span></a></li>
+            <li><a href="software.html" class="active">💻 Software <span>18</span></a></li>
+            <li><a href="gaming.html">🎮 Gaming <span>32</span></a></li>
+            <li><a href="smart-home.html">🏡 Smart Home <span>15</span></a></li>
+            <li><a href="pc-parts.html">🖥️ PC Parts <span>28</span></a></li>
+            <li><a href="mobile.html">📲 Mobile <span>21</span></a></li>
+          </ul>
+        </div>
+
+        <div class="sidebar-widget newsletter-widget">
+          <h3>🔔 Deal Alerts</h3>
+          <p>Get notified for Software deals!</p>
+          <form class="newsletter-form">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-bottom">
+        <p>&copy; 2025 VibeKeys. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('nav-menu').classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

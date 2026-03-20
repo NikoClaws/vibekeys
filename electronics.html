@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Electronics Deals - VibeKeys</title>
+  <meta name="description" content="Best electronics deals and discounts. Save on headphones, speakers, TVs, cameras, and more.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="logo">
+          <span class="logo-icon">🔑</span>
+          Vibe<span>Keys</span>
+        </a>
+        <form class="header-search" action="search.html" method="get">
+          <input type="text" name="q" placeholder="Search deals...">
+          <button type="submit">Search</button>
+        </form>
+        <button class="mobile-menu-btn" onclick="toggleMenu()">☰</button>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ul id="nav-menu">
+          <li><a href="index.html">🏠 Home</a></li>
+          <li><a href="electronics.html" class="active">📱 Electronics</a></li>
+          <li><a href="software.html">💻 Software</a></li>
+          <li><a href="gaming.html">🎮 Gaming</a></li>
+          <li><a href="smart-home.html">🏡 Smart Home</a></li>
+          <li><a href="pc-parts.html">🖥️ PC Parts</a></li>
+          <li><a href="mobile.html">📲 Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="category-header">
+    <div class="container">
+      <div class="category-icon">📱</div>
+      <h1>Electronics Deals</h1>
+      <p>Best discounts on headphones, speakers, TVs, cameras & more</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="main-content">
+      <div class="content">
+        <h2 class="section-title">Latest Electronics Deals</h2>
+        
+        <div class="deals-grid" id="deals-container">
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-45%</span>
+              <span class="deal-card-category">Headphones</span>
+              <img src="images/deal7.jpg" alt="Sony Headphones" onerror="this.parentElement.style.background='linear-gradient(135deg, #667eea, #764ba2)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article7.html">Sony WH-1000XM5 Wireless Noise Canceling Headphones</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$219.99</span>
+                <span class="deal-card-original">$399.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>10h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-50%</span>
+              <span class="deal-card-category">Smart Speaker</span>
+              <img src="images/deal1.jpg" alt="Echo Dot" onerror="this.parentElement.style.background='linear-gradient(135deg, #f093fb, #f5576c)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="article1.html">Amazon Echo Dot 5th Gen with Clock - Smart Speaker</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$29.99</span>
+                <span class="deal-card-original">$59.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>2h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-38%</span>
+              <span class="deal-card-category">TV</span>
+              <img src="images/placeholder.jpg" alt="LG TV" onerror="this.parentElement.style.background='linear-gradient(135deg, #4facfe, #00f2fe)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">LG C3 55" OLED 4K Smart TV - evo with AI ThinQ</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$1,096.99</span>
+                <span class="deal-card-original">$1,799.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Amazon</span>
+                <span>4h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-33%</span>
+              <span class="deal-card-category">Earbuds</span>
+              <img src="images/placeholder.jpg" alt="AirPods Pro" onerror="this.parentElement.style.background='linear-gradient(135deg, #43e97b, #38f9d7)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Apple AirPods Pro 2nd Gen with USB-C MagSafe Case</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$169.00</span>
+                <span class="deal-card-original">$249.00</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Apple</span>
+                <span>6h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-28%</span>
+              <span class="deal-card-category">Camera</span>
+              <img src="images/placeholder.jpg" alt="Sony Camera" onerror="this.parentElement.style.background='linear-gradient(135deg, #fa709a, #fee140)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Sony Alpha a7 IV Full Frame Mirrorless Camera Body</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$1,798.00</span>
+                <span class="deal-card-original">$2,499.99</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 B&H Photo</span>
+                <span>8h ago</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="deal-card">
+            <div class="deal-card-image">
+              <span class="deal-card-badge">-42%</span>
+              <span class="deal-card-category">Soundbar</span>
+              <img src="images/placeholder.jpg" alt="Sonos Beam" onerror="this.parentElement.style.background='linear-gradient(135deg, #a18cd1, #fbc2eb)';">
+            </div>
+            <div class="deal-card-content">
+              <h3 class="deal-card-title"><a href="#">Sonos Beam Gen 2 Compact Smart Soundbar with Dolby Atmos</a></h3>
+              <div class="deal-card-prices">
+                <span class="deal-card-price">$349.00</span>
+                <span class="deal-card-original">$499.00</span>
+              </div>
+              <div class="deal-card-meta">
+                <span class="deal-card-store">🛒 Sonos</span>
+                <span>12h ago</span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <aside class="sidebar">
+        <div class="sidebar-widget">
+          <h3>📁 All Categories</h3>
+          <ul class="categories-list">
+            <li><a href="electronics.html" class="active">📱 Electronics <span>24</span></a></li>
+            <li><a href="software.html">💻 Software <span>18</span></a></li>
+            <li><a href="gaming.html">🎮 Gaming <span>32</span></a></li>
+            <li><a href="smart-home.html">🏡 Smart Home <span>15</span></a></li>
+            <li><a href="pc-parts.html">🖥️ PC Parts <span>28</span></a></li>
+            <li><a href="mobile.html">📲 Mobile <span>21</span></a></li>
+          </ul>
+        </div>
+
+        <div class="sidebar-widget newsletter-widget">
+          <h3>🔔 Deal Alerts</h3>
+          <p>Get notified for Electronics deals!</p>
+          <form class="newsletter-form">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-bottom">
+        <p>&copy; 2025 VibeKeys. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('nav-menu').classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

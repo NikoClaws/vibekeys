@@ -1,0 +1,10 @@
+name = "vibekeys"
+main = "worker.js"
+compatibility_date = "2025-09-27"
+
+[assets]
+directory = "./"
+binding = "ASSETS"
+
+[observability]
+enabled = true
