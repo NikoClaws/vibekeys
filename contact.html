@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - VibeKeys</title>
+  <meta name="description" content="Contact VibeKeys - Get in touch with us for questions, deal submissions, or feedback.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="logo">
+          <span class="logo-icon">🔑</span>
+          Vibe<span>Keys</span>
+        </a>
+        <form class="header-search" action="search.html" method="get">
+          <input type="text" name="q" placeholder="Search deals...">
+          <button type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ul id="nav-menu">
+          <li><a href="index.html">🏠 Home</a></li>
+          <li><a href="electronics.html">📱 Electronics</a></li>
+          <li><a href="software.html">💻 Software</a></li>
+          <li><a href="gaming.html">🎮 Gaming</a></li>
+          <li><a href="smart-home.html">🏡 Smart Home</a></li>
+          <li><a href="pc-parts.html">🖥️ PC Parts</a></li>
+          <li><a href="mobile.html">📲 Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main class="contact-container container">
+    <h1>📬 Contact Us</h1>
+    <p class="contact-intro">Have a question, found a great deal, or just want to say hi? We'd love to hear from you!</p>
+
+    <div class="contact-grid">
+      <div class="contact-info">
+        <div class="contact-card">
+          <h2>📧 Email Us</h2>
+          <p>For general inquiries:</p>
+          <a href="mailto:contact@vibekeys.com" class="contact-email">contact@vibekeys.com</a>
+        </div>
+
+        <div class="contact-card">
+          <h2>🔥 Submit a Deal</h2>
+          <p>Found an amazing deal we missed? Let us know!</p>
+          <a href="mailto:deals@vibekeys.com" class="contact-email">deals@vibekeys.com</a>
+          <p class="contact-note">Include the product name, price, retailer, and link.</p>
+        </div>
+
+        <div class="contact-card">
+          <h2>🤝 Business Inquiries</h2>
+          <p>For partnerships and advertising:</p>
+          <a href="mailto:business@vibekeys.com" class="contact-email">business@vibekeys.com</a>
+        </div>
+
+        <div class="contact-card">
+          <h2>⚖️ Legal Matters</h2>
+          <p>For DMCA notices and legal inquiries:</p>
+          <a href="mailto:legal@vibekeys.com" class="contact-email">legal@vibekeys.com</a>
+          <p class="contact-note">See our <a href="dmca.html">DMCA Policy</a> for copyright issues.</p>
+        </div>
+
+        <div class="contact-card">
+          <h2>⏰ Response Time</h2>
+          <p>We typically respond within 24-48 hours during business days. Please be patient – we're a small team passionate about finding great deals!</p>
+        </div>
+      </div>
+
+      <div class="contact-form-wrapper">
+        <h2>📝 Send Us a Message</h2>
+        <form class="contact-form" action="#" method="POST" onsubmit="handleSubmit(event)">
+          <div class="form-group">
+            <label for="name">Your Name *</label>
+            <input type="text" id="name" name="name" required placeholder="John Doe">
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email Address *</label>
+            <input type="email" id="email" name="email" required placeholder="john@example.com">
+          </div>
+
+          <div class="form-group">
+            <label for="subject">Subject *</label>
+            <select id="subject" name="subject" required>
+              <option value="">Select a topic...</option>
+              <option value="deal-submission">Submit a Deal</option>
+              <option value="question">General Question</option>
+              <option value="feedback">Feedback</option>
+              <option value="issue">Report an Issue</option>
+              <option value="business">Business Inquiry</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="message">Message *</label>
+            <textarea id="message" name="message" rows="6" required placeholder="Tell us what's on your mind..."></textarea>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-full">Send Message →</button>
+        </form>
+
+        <div id="form-success" class="form-success" style="display: none;">
+          <h3>✅ Message Sent!</h3>
+          <p>Thank you for reaching out. We'll get back to you as soon as possible.</p>
+        </div>
+      </div>
+    </div>
+
+    <section class="faq-section">
+      <h2>❓ Frequently Asked Questions</h2>
+      
+      <div class="faq-item">
+        <h3>How do I submit a deal?</h3>
+        <p>Email us at <a href="mailto:deals@vibekeys.com">deals@vibekeys.com</a> with the product name, sale price, original price (if known), retailer, and a link to the deal. We review all submissions and feature the best ones!</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>A deal I clicked on shows a different price. What happened?</h3>
+        <p>Deals can expire or change at any time. Retailers control pricing, and deals may sell out or be modified without notice. We do our best to keep information current, but always verify the price at checkout.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>Do you have an app?</h3>
+        <p>Not yet, but our website is fully mobile-friendly! Bookmark us on your phone for easy access to deals on the go.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>How do you make money?</h3>
+        <p>We earn small commissions through affiliate programs when you purchase through our links. This doesn't affect the price you pay – it just helps us keep the site running.</p>
+      </div>
+    </section>
+
+    <div style="text-align: center; margin-top: 40px;">
+      <a href="index.html" class="btn btn-primary">← Back to Deals</a>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-links">
+        <a href="about.html">About</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms of Service</a>
+        <a href="dmca.html">DMCA</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 VibeKeys. All rights reserved.</p>
+        <p class="affiliate-disclosure">Affiliate Disclosure: We earn commissions from qualifying purchases.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function handleSubmit(event) {
+      event.preventDefault();
+      // In production, this would submit to a backend
+      document.querySelector('.contact-form').style.display = 'none';
+      document.getElementById('form-success').style.display = 'block';
+    }
+  </script>
+</body>
+</html>

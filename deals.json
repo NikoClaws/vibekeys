@@ -1,0 +1,76 @@
+{
+  "deals": [
+    {
+      "id": "sample1",
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+      "price": 278.00,
+      "originalPrice": 399.99,
+      "store": "Amazon",
+      "url": "https://amazon.com/dp/B09XS7JWHH",
+      "category": "electronics",
+      "imageUrl": null,
+      "source": "sample",
+      "score": 500,
+      "created": "2026-03-20T10:00:00Z",
+      "scraped": "2026-03-20T14:00:00Z"
+    },
+    {
+      "id": "sample2",
+      "title": "NVIDIA GeForce RTX 4070 SUPER 12GB Graphics Card",
+      "price": 549.99,
+      "originalPrice": 599.99,
+      "store": "Best Buy",
+      "url": "https://bestbuy.com/site/nvidia-geforce-rtx-4070-super",
+      "category": "pc-parts",
+      "imageUrl": null,
+      "source": "sample",
+      "score": 450,
+      "created": "2026-03-20T09:00:00Z",
+      "scraped": "2026-03-20T14:00:00Z"
+    },
+    {
+      "id": "sample3",
+      "title": "Xbox Elite Wireless Controller Series 2 – Core",
+      "price": 99.99,
+      "originalPrice": 139.99,
+      "store": "Amazon",
+      "url": "https://amazon.com/dp/B0B1FTLT8S",
+      "category": "gaming",
+      "imageUrl": null,
+      "source": "sample",
+      "score": 380,
+      "created": "2026-03-20T08:00:00Z",
+      "scraped": "2026-03-20T14:00:00Z"
+    },
+    {
+      "id": "sample4",
+      "title": "Microsoft 365 Family - 15 Month Subscription (6 Users)",
+      "price": 69.99,
+      "originalPrice": 129.99,
+      "store": "Amazon",
+      "url": "https://amazon.com/dp/B09SPW2BLQ",
+      "category": "software",
+      "imageUrl": null,
+      "source": "sample",
+      "score": 320,
+      "created": "2026-03-20T07:00:00Z",
+      "scraped": "2026-03-20T14:00:00Z"
+    },
+    {
+      "id": "sample5",
+      "title": "Ring Video Doorbell 4 with Enhanced Features",
+      "price": 149.99,
+      "originalPrice": 219.99,
+      "store": "Amazon",
+      "url": "https://amazon.com/dp/B08Q5K5PS4",
+      "category": "smart-home",
+      "imageUrl": null,
+      "source": "sample",
+      "score": 290,
+      "created": "2026-03-20T06:00:00Z",
+      "scraped": "2026-03-20T14:00:00Z"
+    }
+  ],
+  "lastUpdated": "2026-03-20T14:57:00Z",
+  "totalDeals": 5
+}
