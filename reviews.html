@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Reviews - VibeKeys</title>
+  <meta name="description" content="In-depth product reviews from the VibeKeys team. Honest opinions on the latest tech, electronics, and gadgets.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <a href="index.html" class="logo">
+          <span class="logo-icon">🔑</span>
+          Vibe<span>Keys</span>
+        </a>
+        <form class="header-search" action="search.html" method="get">
+          <input type="text" name="q" placeholder="Search deals...">
+          <button type="submit">Search</button>
+        </form>
+        <button class="mobile-menu-btn" onclick="toggleMenu()">☰</button>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ul id="nav-menu">
+          <li><a href="index.html">🏠 Home</a></li>
+          <li><a href="reviews.html" class="active">⭐ Reviews</a></li>
+          <li><a href="electronics.html">📱 Electronics</a></li>
+          <li><a href="software.html">💻 Software</a></li>
+          <li><a href="gaming.html">🎮 Gaming</a></li>
+          <li><a href="smart-home.html">🏡 Smart Home</a></li>
+          <li><a href="pc-parts.html">🖥️ PC Parts</a></li>
+          <li><a href="mobile.html">📲 Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="category-header" style="background: linear-gradient(135deg, #f12711, #f5af19);">
+    <div class="container">
+      <div class="category-icon">⭐</div>
+      <h1>Product Reviews</h1>
+      <p>Honest, in-depth reviews from the VibeKeys team</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="main-content">
+      <div class="content">
+        <h2 class="section-title">Full Reviews</h2>
+        
+        <div class="deals-grid" id="reviews-container">
+          <!-- Beats Studio Pro Review - Full Review Available -->
+          <article class="deal-card" style="grid-column: span 2;">
+            <div class="deal-card-image" style="height: 280px;">
+              <span class="deal-card-badge" style="background: linear-gradient(135deg, #f12711, #f5af19);">⭐ Featured Review</span>
+              <span class="deal-card-category">Headphones</span>
+              <img src="images/beats-studio-pro.jpg" alt="Beats Studio Pro" onerror="this.parentElement.style.background='linear-gradient(135deg, #667eea, #764ba2)';">
+            </div>
+            <div class="deal-card-content" style="padding: 30px;">
+              <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+                <span style="background: #10b981; color: white; padding: 8px 16px; border-radius: 8px; font-weight: 700; font-size: 1.1rem;">8.8/10</span>
+                <span style="color: #10b981; font-weight: 600; font-size: 1rem;">Excellent Value</span>
+              </div>
+              <h3 class="deal-card-title" style="font-size: 1.5rem; margin-bottom: 12px;"><a href="deal-of-the-day.html">Beats Studio Pro Wireless Headphones Review</a></h3>
+              <p style="color: #555; margin: 15px 0; line-height: 1.7; font-size: 1.05rem;">
+                Beats finally made headphones that audiophiles can respect — and at <strong style="color: #10b981;">51% off</strong>, they're now cheaper than Sony's XM5 while matching them feature-for-feature. We tested them for 2 weeks. Here's why they might be the best headphone deal of 2026.
+              </p>
+              <div class="deal-card-prices" style="margin: 20px 0;">
+                <span class="deal-card-price" style="font-size: 1.8rem;">$169.95</span>
+                <span class="deal-card-original" style="font-size: 1.2rem;">$349.95</span>
+              </div>
+              <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+                <a href="deal-of-the-day.html" class="btn" style="background: linear-gradient(135deg, #7C3AED, #5B21B6); color: white; font-weight: 700; padding: 14px 28px;">📖 Read Full Review</a>
+                <a href="https://www.amazon.com/dp/B0C8PR4W22?tag=vibekeys-20" class="btn" style="background: transparent; border: 2px solid #10b981; color: #10b981; font-weight: 600; padding: 14px 28px;" target="_blank">🛒 Buy on Amazon</a>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <!-- Coming Soon Section -->
+        <div style="margin-top: 50px; padding: 40px; background: #f8f9fa; border-radius: 16px; text-align: center;">
+          <h3 style="font-size: 1.5rem; margin-bottom: 15px; color: #333;">📝 More Reviews Coming Soon</h3>
+          <p style="color: #666; max-width: 600px; margin: 0 auto; line-height: 1.7;">
+            We're working on in-depth reviews for more products. Each review includes hands-on testing, detailed specs analysis, and comparison with alternatives. Check back soon!
+          </p>
+        </div>
+      </div>
+
+      <aside class="sidebar">
+        <div class="sidebar-widget">
+          <h3>🏆 Our Ratings</h3>
+          <ul>
+            <li><strong>9-10:</strong> Exceptional</li>
+            <li><strong>8-9:</strong> Excellent</li>
+            <li><strong>7-8:</strong> Good</li>
+            <li><strong>6-7:</strong> Average</li>
+            <li><strong>Below 6:</strong> Not Recommended</li>
+          </ul>
+        </div>
+
+        <div class="sidebar-widget">
+          <h3>💡 Our Review Process</h3>
+          <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">
+            We test every product for at least 2 weeks before reviewing. Our scores reflect real-world performance, value, and how it compares to alternatives.
+          </p>
+        </div>
+
+        <div class="sidebar-widget">
+          <h3>📬 Request a Review</h3>
+          <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">
+            Want us to review a specific product? Let us know what you'd like to see covered next!
+          </p>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>🔑 VibeKeys</h3>
+          <p>Your key to today's hottest tech deals. We find the best prices so you don't have to.</p>
+        </div>
+        <div class="footer-section">
+          <h3>Categories</h3>
+          <ul>
+            <li><a href="reviews.html">Reviews</a></li>
+            <li><a href="electronics.html">Electronics</a></li>
+            <li><a href="gaming.html">Gaming</a></li>
+            <li><a href="software.html">Software</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>About</h3>
+          <ul>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+            <li><a href="terms.html">Terms of Service</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 VibeKeys. All rights reserved. | Prices and availability subject to change.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('nav-menu').classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

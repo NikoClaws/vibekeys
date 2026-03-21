@@ -1,0 +1,102 @@
+{
+  "generated": {
+    "deal_9to5_001": {
+      "articleNum": 1,
+      "articleFile": "article1.html",
+      "title": "Apple AirPods Pro 3",
+      "generatedAt": "2026-03-20T15:49:52.072Z"
+    },
+    "deal_9to5_002": {
+      "articleNum": 2,
+      "articleFile": "article2.html",
+      "title": "Apple Watch Ultra 2 - Natural Titanium",
+      "generatedAt": "2026-03-20T15:49:52.073Z"
+    },
+    "deal_9to5_003": {
+      "articleNum": 3,
+      "articleFile": "article3.html",
+      "title": "15-inch M4 MacBook Air 16GB/512GB",
+      "generatedAt": "2026-03-20T15:49:52.073Z"
+    },
+    "deal_verge_002": {
+      "articleNum": 4,
+      "articleFile": "article4.html",
+      "title": "Beats Studio Pro Wireless Headphones",
+      "generatedAt": "2026-03-20T15:49:52.074Z"
+    },
+    "deal_9to5_004": {
+      "articleNum": 5,
+      "articleFile": "article5.html",
+      "title": "14-inch M5 MacBook Pro 16GB/512GB",
+      "generatedAt": "2026-03-20T15:49:52.074Z"
+    },
+    "deal_verge_006": {
+      "articleNum": 6,
+      "articleFile": "article6.html",
+      "title": "Ecovacs Deebot X8 Pro Omni Robot Vacuum",
+      "generatedAt": "2026-03-20T15:49:52.134Z"
+    },
+    "deal_verge_001": {
+      "articleNum": 7,
+      "articleFile": "article7.html",
+      "title": "Xbox Wireless Controller - Carbon Black",
+      "generatedAt": "2026-03-20T15:49:52.134Z"
+    },
+    "deal_fire_001": {
+      "articleNum": 8,
+      "articleFile": "article8.html",
+      "title": "Amazon Fire TV Stick 4K Max",
+      "generatedAt": "2026-03-20T15:49:52.135Z"
+    },
+    "deal_echo_001": {
+      "articleNum": 9,
+      "articleFile": "article9.html",
+      "title": "Amazon Echo Dot Max with Alexa",
+      "generatedAt": "2026-03-20T15:49:52.135Z"
+    },
+    "deal_game_001": {
+      "articleNum": 10,
+      "articleFile": "article10.html",
+      "title": "Logitech G Pro X Superlight 2 Gaming Mouse",
+      "generatedAt": "2026-03-20T15:49:52.136Z"
+    },
+    "deal_verge_005": {
+      "articleNum": 11,
+      "articleFile": "article11.html",
+      "title": "Hoto PixelDrive Electric Screwdriver Kit",
+      "generatedAt": "2026-03-20T15:49:52.191Z"
+    },
+    "deal_dreame_001": {
+      "articleNum": 12,
+      "articleFile": "article12.html",
+      "title": "Dreame L10s Pro Ultra Robot Vacuum/Mop",
+      "generatedAt": "2026-03-21T14:01:36.825Z"
+    },
+    "deal_sonos_bundle": {
+      "articleNum": 13,
+      "articleFile": "article13.html",
+      "title": "Sonos Beam G2 + Sub Mini Bundle",
+      "generatedAt": "2026-03-21T14:01:36.825Z"
+    },
+    "deal_beats_studio": {
+      "articleNum": 14,
+      "articleFile": "article14.html",
+      "title": "Beats Studio Pro Wireless Headphones",
+      "generatedAt": "2026-03-21T14:01:36.826Z"
+    },
+    "deal_samsung_oled": {
+      "articleNum": 15,
+      "articleFile": "article15.html",
+      "title": "55\" Samsung OLED S90F 4K Smart TV (2025)",
+      "generatedAt": "2026-03-21T14:01:36.826Z"
+    },
+    "deal_iniu_powerbank": {
+      "articleNum": 16,
+      "articleFile": "article16.html",
+      "title": "Iniu 20,000mAh 65W USB-C Power Bank",
+      "generatedAt": "2026-03-21T14:01:36.827Z"
+    }
+  },
+  "nextArticleNum": 17,
+  "lastRun": "2026-03-21T14:01:36.827Z"
+}

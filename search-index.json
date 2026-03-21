@@ -1,132 +1,263 @@
 [
   {
-    "id": 1,
-    "title": "Amazon Echo Dot 5th Gen with Clock",
-    "url": "article1.html",
+    "id": "deal_dreame_001",
+    "title": "Dreame L10s Pro Ultra Robot Vacuum/Mop",
     "category": "smart-home",
-    "price": 29.99,
-    "originalPrice": 59.99,
-    "discount": 50,
     "store": "Amazon",
-    "date": "2025-01-15",
-    "keywords": ["echo", "dot", "alexa", "amazon", "smart", "speaker", "clock", "smart home"],
-    "description": "The best-sounding Echo Dot yet with a vibrant LED clock display."
+    "price": 349.99,
+    "url": "article12.html",
+    "keywords": "dreame l10s pro ultra robot vacuum/mop smart-home amazon"
   },
   {
-    "id": 2,
-    "title": "Microsoft 365 Family - 15 Month Subscription",
-    "url": "article2.html",
-    "category": "software",
-    "price": 69.99,
-    "originalPrice": 214.99,
-    "discount": 67,
-    "store": "Amazon",
-    "date": "2025-01-15",
-    "keywords": ["microsoft", "office", "365", "word", "excel", "powerpoint", "subscription", "software"],
-    "description": "15-month subscription for up to 6 users with 1TB OneDrive each."
-  },
-  {
-    "id": 3,
-    "title": "HyperX Cloud III Gaming Headset",
-    "url": "article3.html",
-    "category": "gaming",
-    "price": 59.99,
-    "originalPrice": 99.99,
-    "discount": 40,
-    "store": "Best Buy",
-    "date": "2025-01-15",
-    "keywords": ["hyperx", "cloud", "gaming", "headset", "headphones", "audio", "pc gaming"],
-    "description": "Wired gaming headset with 53mm drivers and DTS Headphone:X support."
-  },
-  {
-    "id": 4,
-    "title": "Ring Video Doorbell Pro 2",
-    "url": "article4.html",
-    "category": "smart-home",
-    "price": 109.99,
-    "originalPrice": 249.99,
-    "discount": 55,
-    "store": "Amazon",
-    "date": "2025-01-15",
-    "keywords": ["ring", "doorbell", "video", "camera", "smart home", "security"],
-    "description": "Ring's most advanced doorbell with 3D Motion Detection and Bird's Eye View."
-  },
-  {
-    "id": 5,
-    "title": "NVIDIA GeForce RTX 4070 Super 12GB",
-    "url": "article5.html",
-    "category": "pc-parts",
-    "price": 489.99,
-    "originalPrice": 699.99,
-    "discount": 30,
-    "store": "Newegg",
-    "date": "2025-01-15",
-    "keywords": ["nvidia", "rtx", "4070", "super", "graphics card", "gpu", "gaming", "pc parts"],
-    "description": "The sweet spot for 1440p gaming with DLSS 3 support."
-  },
-  {
-    "id": 6,
-    "title": "Samsung Galaxy S24 Ultra 256GB Unlocked",
-    "url": "article6.html",
-    "category": "mobile",
-    "price": 849.99,
-    "originalPrice": 1299.99,
-    "discount": 35,
-    "store": "Samsung",
-    "date": "2025-01-15",
-    "keywords": ["samsung", "galaxy", "s24", "ultra", "phone", "smartphone", "android", "mobile"],
-    "description": "Samsung's flagship with S Pen, 200MP camera, and Galaxy AI."
-  },
-  {
-    "id": 7,
-    "title": "Sony WH-1000XM5 Wireless Headphones",
-    "url": "article7.html",
+    "id": "deal_sonos_bundle",
+    "title": "Sonos Beam G2 + Sub Mini Bundle",
     "category": "electronics",
-    "price": 219.99,
-    "originalPrice": 399.99,
-    "discount": 45,
     "store": "Amazon",
-    "date": "2025-01-15",
-    "keywords": ["sony", "wh1000xm5", "headphones", "wireless", "noise canceling", "bluetooth", "audio"],
-    "description": "Industry-leading noise canceling with 30-hour battery life."
+    "price": 749,
+    "url": "article13.html",
+    "keywords": "sonos beam g2 + sub mini bundle electronics amazon"
   },
   {
-    "id": 8,
-    "title": "Adobe Creative Cloud All Apps - 1 Year",
-    "url": "article8.html",
-    "category": "software",
-    "price": 329.99,
-    "originalPrice": 659.88,
-    "discount": 60,
-    "store": "Adobe",
-    "date": "2025-01-15",
-    "keywords": ["adobe", "creative cloud", "photoshop", "illustrator", "premiere", "software"],
-    "description": "Get all 20+ Adobe apps including Photoshop, Illustrator, and Premiere Pro."
+    "id": "deal_beats_studio",
+    "title": "Beats Studio Pro Wireless Headphones",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 169.99,
+    "url": "article14.html",
+    "keywords": "beats studio pro wireless headphones electronics amazon"
   },
   {
-    "id": 9,
-    "title": "ASUS ROG Zephyrus G14 Gaming Laptop",
-    "url": "article9.html",
-    "category": "pc-parts",
-    "price": 1199.99,
-    "originalPrice": 1599.99,
-    "discount": 25,
+    "id": "deal_samsung_oled",
+    "title": "55\" Samsung OLED S90F 4K Smart TV (2025)",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 1097.99,
+    "url": "article15.html",
+    "keywords": "55\" samsung oled s90f 4k smart tv (2025) electronics amazon"
+  },
+  {
+    "id": "deal_iniu_powerbank",
+    "title": "Iniu 20,000mAh 65W USB-C Power Bank",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 22.94,
+    "url": "article16.html",
+    "keywords": "iniu 20,000mah 65w usb-c power bank electronics amazon"
+  },
+  {
+    "id": "deal_jbl_partybox",
+    "title": "JBL PartyBox 520 Party Speaker",
+    "category": "electronics",
+    "store": "Woot",
+    "price": 579.95,
+    "url": "#",
+    "keywords": "jbl partybox 520 party speaker electronics woot"
+  },
+  {
+    "id": "deal_macbook_air_m4",
+    "title": "15-inch M4 MacBook Air 16GB/256GB",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 949,
+    "url": "#",
+    "keywords": "15-inch m4 macbook air 16gb/256gb electronics amazon"
+  },
+  {
+    "id": "deal_airpods_pro3",
+    "title": "Apple AirPods Pro 3 with Heart Rate Sensing",
+    "category": "electronics",
     "store": "Best Buy",
-    "date": "2025-01-15",
-    "keywords": ["asus", "rog", "zephyrus", "g14", "laptop", "gaming", "rtx", "notebook"],
-    "description": "14-inch gaming laptop with RTX 4060, Ryzen 9, and OLED display."
+    "price": 199.99,
+    "url": "#",
+    "keywords": "apple airpods pro 3 with heart rate sensing electronics best buy"
   },
   {
-    "id": 10,
-    "title": "PlayStation DualSense Edge Controller",
-    "url": "article10.html",
+    "id": "deal_samsung_monitor",
+    "title": "Samsung 27\" G50SF QD-OLED Gaming Monitor + RE Game",
+    "category": "pc-parts",
+    "store": "Amazon",
+    "price": 349.99,
+    "url": "#",
+    "keywords": "samsung 27\" g50sf qd-oled gaming monitor + re game pc-parts amazon"
+  },
+  {
+    "id": "deal_apple_watch_titanium",
+    "title": "Apple Watch Series 11 Titanium",
+    "category": "mobile",
+    "store": "Amazon",
+    "price": 649,
+    "url": "#",
+    "keywords": "apple watch series 11 titanium mobile amazon"
+  },
+  {
+    "id": "deal_pixel10_pro",
+    "title": "Google Pixel 10 Pro XL (Open-Box)",
+    "category": "mobile",
+    "store": "Best Buy",
+    "price": 619.99,
+    "url": "#",
+    "keywords": "google pixel 10 pro xl (open-box) mobile best buy"
+  },
+  {
+    "id": "deal_beats_buds",
+    "title": "Beats Studio Buds Plus - Translucent",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 99.95,
+    "url": "#",
+    "keywords": "beats studio buds plus - translucent electronics amazon"
+  },
+  {
+    "id": "deal_fire_tv",
+    "title": "Amazon Fire TV Stick 4K Max (2nd Gen)",
+    "category": "smart-home",
+    "store": "Amazon",
+    "price": 34.99,
+    "url": "#",
+    "keywords": "amazon fire tv stick 4k max (2nd gen) smart-home amazon"
+  },
+  {
+    "id": "deal_sonos_ace",
+    "title": "Sonos Ace Wireless Headphones",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 299,
+    "url": "#",
+    "keywords": "sonos ace wireless headphones electronics amazon"
+  },
+  {
+    "id": "deal_echo_dot_max",
+    "title": "Amazon Echo Dot Max with Alexa Plus",
+    "category": "smart-home",
+    "store": "Amazon",
+    "price": 75,
+    "url": "#",
+    "keywords": "amazon echo dot max with alexa plus smart-home amazon"
+  },
+  {
+    "id": "deal_ipad_air_m4",
+    "title": "Apple iPad Air 11-inch (M4) 128GB",
+    "category": "mobile",
+    "store": "Amazon",
+    "price": 559,
+    "url": "#",
+    "keywords": "apple ipad air 11-inch (m4) 128gb mobile amazon"
+  },
+  {
+    "id": "deal_sony_xm6",
+    "title": "Sony WH-1000XM6 Noise Cancelling Headphones",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 398,
+    "url": "#",
+    "keywords": "sony wh-1000xm6 noise cancelling headphones electronics amazon"
+  },
+  {
+    "id": "deal_pixel_watch4",
+    "title": "Google Pixel Watch 4 with Google AI",
+    "category": "mobile",
+    "store": "Amazon",
+    "price": 289.99,
+    "url": "#",
+    "keywords": "google pixel watch 4 with google ai mobile amazon"
+  },
+  {
+    "id": "deal_echo_studio",
+    "title": "Amazon Echo Studio (2025) Spatial Audio",
+    "category": "smart-home",
+    "store": "Amazon",
+    "price": 189.99,
+    "url": "#",
+    "keywords": "amazon echo studio (2025) spatial audio smart-home amazon"
+  },
+  {
+    "id": "deal_sonos_move2",
+    "title": "Sonos Move 2 Portable Bluetooth Speaker",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 399,
+    "url": "#",
+    "keywords": "sonos move 2 portable bluetooth speaker electronics amazon"
+  },
+  {
+    "id": "deal_apple_pencil",
+    "title": "Apple Pencil (USB-C)",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 59,
+    "url": "#",
+    "keywords": "apple pencil (usb-c) electronics amazon"
+  },
+  {
+    "id": "deal_beats_solo4",
+    "title": "Beats Solo 4 Wireless On-Ear Headphones",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 129.95,
+    "url": "#",
+    "keywords": "beats solo 4 wireless on-ear headphones electronics amazon"
+  },
+  {
+    "id": "deal_airtag2",
+    "title": "Apple AirTag 2 (Open-Box Excellent)",
+    "category": "electronics",
+    "store": "Best Buy",
+    "price": 24,
+    "url": "#",
+    "keywords": "apple airtag 2 (open-box excellent) electronics best buy"
+  },
+  {
+    "id": "deal_apple_watch_se3",
+    "title": "Apple Watch SE 3 Midnight (Cellular)",
+    "category": "mobile",
+    "store": "Amazon",
+    "price": 249,
+    "url": "#",
+    "keywords": "apple watch se 3 midnight (cellular) mobile amazon"
+  },
+  {
+    "id": "deal_xbox_controller",
+    "title": "Xbox Wireless Controller - Carbon Black",
     "category": "gaming",
-    "price": 139.99,
-    "originalPrice": 199.99,
-    "discount": 30,
-    "store": "PlayStation",
-    "date": "2025-01-15",
-    "keywords": ["playstation", "dualsense", "edge", "controller", "ps5", "gaming", "pro"],
-    "description": "Sony's official pro controller with swappable back buttons and adjustable triggers."
+    "store": "Amazon",
+    "price": 43.49,
+    "url": "#",
+    "keywords": "xbox wireless controller - carbon black gaming amazon"
+  },
+  {
+    "id": "deal_anker_solix",
+    "title": "Anker SOLIX C300 DC Power Station 256Wh",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 149.99,
+    "url": "#",
+    "keywords": "anker solix c300 dc power station 256wh electronics amazon"
+  },
+  {
+    "id": "deal_ue_miniroll",
+    "title": "Ultimate Ears Miniroll Bluetooth Speaker",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 59.99,
+    "url": "#",
+    "keywords": "ultimate ears miniroll bluetooth speaker electronics amazon"
+  },
+  {
+    "id": "deal_kindle_colorsoft",
+    "title": "Amazon Kindle Colorsoft Signature Edition 32GB",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 206.99,
+    "url": "#",
+    "keywords": "amazon kindle colorsoft signature edition 32gb electronics amazon"
+  },
+  {
+    "id": "deal_sonos_roam2",
+    "title": "Sonos Roam 2 Portable Speaker",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 139,
+    "url": "#",
+    "keywords": "sonos roam 2 portable speaker electronics amazon"
   }
 ]

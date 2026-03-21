@@ -295,14 +295,19 @@ async function main() {
     // Download image if available
     let imagePath = null;
     if (deal.imageUrl) {
-      const ext = deal.imageUrl.match(/\.(jpg|jpeg|png|gif|webp)/i)?.[1] || 'jpg';
-      const imageFile = `deal-${articleNum}.${ext}`;
-      const fullImagePath = path.join(IMAGES_DIR, imageFile);
-      
-      const downloaded = await downloadImage(deal.imageUrl, fullImagePath);
-      if (downloaded) {
-        imagePath = `images/${imageFile}`;
-        console.log(`  Downloaded image: ${imagePath}`);
+      // Check if it's already a local path
+      if (deal.imageUrl.startsWith('images/')) {
+        imagePath = deal.imageUrl;
+      } else {
+        const ext = deal.imageUrl.match(/\.(jpg|jpeg|png|gif|webp)/i)?.[1] || 'jpg';
+        const imageFile = `deal-${articleNum}.${ext}`;
+        const fullImagePath = path.join(IMAGES_DIR, imageFile);
+        
+        const downloaded = await downloadImage(deal.imageUrl, fullImagePath);
+        if (downloaded) {
+          imagePath = `images/${imageFile}`;
+          console.log(`  Downloaded image: ${imagePath}`);
+        }
       }
     }
     
