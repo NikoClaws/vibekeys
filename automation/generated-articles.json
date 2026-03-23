@@ -95,8 +95,68 @@
       "articleFile": "article16.html",
       "title": "Iniu 20,000mAh 65W USB-C Power Bank",
       "generatedAt": "2026-03-21T14:01:36.827Z"
+    },
+    "deal_frame_pro_85": {
+      "articleNum": 17,
+      "articleFile": "article17.html",
+      "title": "Samsung 85\" The Frame Pro QLED TV (2026)",
+      "generatedAt": "2026-03-22T14:02:43.102Z"
+    },
+    "deal_lg_b5_oled": {
+      "articleNum": 18,
+      "articleFile": "article18.html",
+      "title": "LG B5 55\" OLED 4K Smart TV",
+      "generatedAt": "2026-03-22T14:02:43.103Z"
+    },
+    "deal_fire_tv_omni_75": {
+      "articleNum": 19,
+      "articleFile": "article19.html",
+      "title": "Amazon Fire TV Omni Series 75\" 4K UHD Smart TV",
+      "generatedAt": "2026-03-22T14:02:43.103Z"
+    },
+    "deal_pixel10_pro_xl": {
+      "articleNum": 20,
+      "articleFile": "article20.html",
+      "title": "Google Pixel 10 Pro XL (Open-Box Excellent)",
+      "generatedAt": "2026-03-22T14:02:43.104Z"
+    },
+    "deal_bose_qc_ultra": {
+      "articleNum": 21,
+      "articleFile": "article21.html",
+      "title": "Bose QuietComfort Ultra Headphones",
+      "generatedAt": "2026-03-22T14:02:43.104Z"
+    },
+    "deal_asus_rog_portable": {
+      "articleNum": 22,
+      "articleFile": "article22.html",
+      "title": "ASUS ROG Strix 17.3\" 240Hz Portable Gaming Monitor",
+      "generatedAt": "2026-03-23T14:01:08.152Z"
+    },
+    "deal_galaxy_s25_fe": {
+      "articleNum": 23,
+      "articleFile": "article23.html",
+      "title": "Samsung Galaxy S25 FE Unlocked",
+      "generatedAt": "2026-03-23T14:01:08.153Z"
+    },
+    "deal_sennheiser_momentum": {
+      "articleNum": 24,
+      "articleFile": "article24.html",
+      "title": "Sennheiser Momentum 5 Wireless Headphones",
+      "generatedAt": "2026-03-23T14:01:08.153Z"
+    },
+    "deal_macbook_air_15_m4": {
+      "articleNum": 25,
+      "articleFile": "article25.html",
+      "title": "Apple MacBook Air 15-inch M4 16GB/256GB",
+      "generatedAt": "2026-03-23T14:01:08.154Z"
+    },
+    "deal_iphone16_pro": {
+      "articleNum": 26,
+      "articleFile": "article26.html",
+      "title": "Apple iPhone 16 Pro 128GB Unlocked",
+      "generatedAt": "2026-03-23T14:01:08.155Z"
     }
   },
-  "nextArticleNum": 17,
-  "lastRun": "2026-03-21T14:01:36.827Z"
+  "nextArticleNum": 27,
+  "lastRun": "2026-03-23T14:01:08.155Z"
 }

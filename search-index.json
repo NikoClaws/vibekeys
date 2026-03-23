@@ -1,5 +1,23 @@
 [
   {
+    "id": "deal_asus_rog_portable",
+    "title": "ASUS ROG Strix 17.3\" 240Hz Portable Gaming Monitor",
+    "category": "pc-parts",
+    "store": "Amazon",
+    "price": 399,
+    "url": "article22.html",
+    "keywords": "asus rog strix 17.3\" 240hz portable gaming monitor pc-parts amazon"
+  },
+  {
+    "id": "deal_frame_pro_85",
+    "title": "Samsung 85\" The Frame Pro QLED TV (2026)",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 2299.99,
+    "url": "article17.html",
+    "keywords": "samsung 85\" the frame pro qled tv (2026) electronics amazon"
+  },
+  {
     "id": "deal_dreame_001",
     "title": "Dreame L10s Pro Ultra Robot Vacuum/Mop",
     "category": "smart-home",
@@ -9,13 +27,22 @@
     "keywords": "dreame l10s pro ultra robot vacuum/mop smart-home amazon"
   },
   {
-    "id": "deal_sonos_bundle",
-    "title": "Sonos Beam G2 + Sub Mini Bundle",
+    "id": "deal_lg_b5_oled",
+    "title": "LG B5 55\" OLED 4K Smart TV",
+    "category": "electronics",
+    "store": "Best Buy",
+    "price": 829.99,
+    "url": "article18.html",
+    "keywords": "lg b5 55\" oled 4k smart tv electronics best buy"
+  },
+  {
+    "id": "deal_fire_tv_omni_75",
+    "title": "Amazon Fire TV Omni Series 75\" 4K UHD Smart TV",
     "category": "electronics",
     "store": "Amazon",
-    "price": 749,
-    "url": "article13.html",
-    "keywords": "sonos beam g2 + sub mini bundle electronics amazon"
+    "price": 569.99,
+    "url": "article19.html",
+    "keywords": "amazon fire tv omni series 75\" 4k uhd smart tv electronics amazon"
   },
   {
     "id": "deal_beats_studio",
@@ -27,6 +54,87 @@
     "keywords": "beats studio pro wireless headphones electronics amazon"
   },
   {
+    "id": "deal_pixel10_pro_xl",
+    "title": "Google Pixel 10 Pro XL (Open-Box Excellent)",
+    "category": "mobile",
+    "store": "Best Buy",
+    "price": 573.99,
+    "url": "article20.html",
+    "keywords": "google pixel 10 pro xl (open-box excellent) mobile best buy"
+  },
+  {
+    "id": "deal_bose_qc_ultra",
+    "title": "Bose QuietComfort Ultra Headphones",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 279.99,
+    "url": "article21.html",
+    "keywords": "bose quietcomfort ultra headphones electronics amazon"
+  },
+  {
+    "id": "deal_galaxy_s25_fe",
+    "title": "Samsung Galaxy S25 FE Unlocked",
+    "category": "mobile",
+    "store": "Amazon",
+    "price": 447.99,
+    "url": "article23.html",
+    "keywords": "samsung galaxy s25 fe unlocked mobile amazon"
+  },
+  {
+    "id": "deal_sennheiser_momentum",
+    "title": "Sennheiser Momentum 5 Wireless Headphones",
+    "category": "electronics",
+    "store": "Best Buy",
+    "price": 299.99,
+    "url": "article24.html",
+    "keywords": "sennheiser momentum 5 wireless headphones electronics best buy"
+  },
+  {
+    "id": "deal_macbook_air_15_m4",
+    "title": "Apple MacBook Air 15-inch M4 16GB/256GB",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 899,
+    "url": "article25.html",
+    "keywords": "apple macbook air 15-inch m4 16gb/256gb electronics amazon"
+  },
+  {
+    "id": "deal_sonos_bundle",
+    "title": "Sonos Beam G2 + Sub Mini Bundle",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 749,
+    "url": "article13.html",
+    "keywords": "sonos beam g2 + sub mini bundle electronics amazon"
+  },
+  {
+    "id": "deal_iphone16_pro",
+    "title": "Apple iPhone 16 Pro 128GB Unlocked",
+    "category": "mobile",
+    "store": "Amazon",
+    "price": 799.99,
+    "url": "article26.html",
+    "keywords": "apple iphone 16 pro 128gb unlocked mobile amazon"
+  },
+  {
+    "id": "deal_apple_watch_ultra2",
+    "title": "Apple Watch Ultra 2 (Record Low Price)",
+    "category": "mobile",
+    "store": "Amazon",
+    "price": 599,
+    "url": "#",
+    "keywords": "apple watch ultra 2 (record low price) mobile amazon"
+  },
+  {
+    "id": "deal_galaxy_buds4_pro",
+    "title": "Samsung Galaxy Buds 4 Pro",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 199.99,
+    "url": "#",
+    "keywords": "samsung galaxy buds 4 pro electronics amazon"
+  },
+  {
     "id": "deal_samsung_oled",
     "title": "55\" Samsung OLED S90F 4K Smart TV (2025)",
     "category": "electronics",
@@ -34,6 +142,15 @@
     "price": 1097.99,
     "url": "article15.html",
     "keywords": "55\" samsung oled s90f 4k smart tv (2025) electronics amazon"
+  },
+  {
+    "id": "deal_anker_solix_bundle",
+    "title": "Anker SOLIX C1000 Power Station + Solar Panel Bundle",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 599.99,
+    "url": "#",
+    "keywords": "anker solix c1000 power station + solar panel bundle electronics amazon"
   },
   {
     "id": "deal_iniu_powerbank",
@@ -45,6 +162,15 @@
     "keywords": "iniu 20,000mah 65w usb-c power bank electronics amazon"
   },
   {
+    "id": "deal_baseus_bp1_pro",
+    "title": "Baseus BP1 Pro ANC Wireless Earbuds",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 22.99,
+    "url": "#",
+    "keywords": "baseus bp1 pro anc wireless earbuds electronics amazon"
+  },
+  {
     "id": "deal_jbl_partybox",
     "title": "JBL PartyBox 520 Party Speaker",
     "category": "electronics",
@@ -54,13 +180,13 @@
     "keywords": "jbl partybox 520 party speaker electronics woot"
   },
   {
-    "id": "deal_macbook_air_m4",
-    "title": "15-inch M4 MacBook Air 16GB/256GB",
-    "category": "electronics",
+    "id": "deal_apple_watch_titanium",
+    "title": "Apple Watch Series 11 Titanium",
+    "category": "mobile",
     "store": "Amazon",
-    "price": 949,
+    "price": 649,
     "url": "#",
-    "keywords": "15-inch m4 macbook air 16gb/256gb electronics amazon"
+    "keywords": "apple watch series 11 titanium mobile amazon"
   },
   {
     "id": "deal_airpods_pro3",
@@ -81,22 +207,13 @@
     "keywords": "samsung 27\" g50sf qd-oled gaming monitor + re game pc-parts amazon"
   },
   {
-    "id": "deal_apple_watch_titanium",
-    "title": "Apple Watch Series 11 Titanium",
-    "category": "mobile",
+    "id": "deal_sonos_ace",
+    "title": "Sonos Ace Wireless Headphones",
+    "category": "electronics",
     "store": "Amazon",
-    "price": 649,
+    "price": 299,
     "url": "#",
-    "keywords": "apple watch series 11 titanium mobile amazon"
-  },
-  {
-    "id": "deal_pixel10_pro",
-    "title": "Google Pixel 10 Pro XL (Open-Box)",
-    "category": "mobile",
-    "store": "Best Buy",
-    "price": 619.99,
-    "url": "#",
-    "keywords": "google pixel 10 pro xl (open-box) mobile best buy"
+    "keywords": "sonos ace wireless headphones electronics amazon"
   },
   {
     "id": "deal_beats_buds",
@@ -117,15 +234,6 @@
     "keywords": "amazon fire tv stick 4k max (2nd gen) smart-home amazon"
   },
   {
-    "id": "deal_sonos_ace",
-    "title": "Sonos Ace Wireless Headphones",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 299,
-    "url": "#",
-    "keywords": "sonos ace wireless headphones electronics amazon"
-  },
-  {
     "id": "deal_echo_dot_max",
     "title": "Amazon Echo Dot Max with Alexa Plus",
     "category": "smart-home",
@@ -135,51 +243,6 @@
     "keywords": "amazon echo dot max with alexa plus smart-home amazon"
   },
   {
-    "id": "deal_ipad_air_m4",
-    "title": "Apple iPad Air 11-inch (M4) 128GB",
-    "category": "mobile",
-    "store": "Amazon",
-    "price": 559,
-    "url": "#",
-    "keywords": "apple ipad air 11-inch (m4) 128gb mobile amazon"
-  },
-  {
-    "id": "deal_sony_xm6",
-    "title": "Sony WH-1000XM6 Noise Cancelling Headphones",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 398,
-    "url": "#",
-    "keywords": "sony wh-1000xm6 noise cancelling headphones electronics amazon"
-  },
-  {
-    "id": "deal_pixel_watch4",
-    "title": "Google Pixel Watch 4 with Google AI",
-    "category": "mobile",
-    "store": "Amazon",
-    "price": 289.99,
-    "url": "#",
-    "keywords": "google pixel watch 4 with google ai mobile amazon"
-  },
-  {
-    "id": "deal_echo_studio",
-    "title": "Amazon Echo Studio (2025) Spatial Audio",
-    "category": "smart-home",
-    "store": "Amazon",
-    "price": 189.99,
-    "url": "#",
-    "keywords": "amazon echo studio (2025) spatial audio smart-home amazon"
-  },
-  {
-    "id": "deal_sonos_move2",
-    "title": "Sonos Move 2 Portable Bluetooth Speaker",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 399,
-    "url": "#",
-    "keywords": "sonos move 2 portable bluetooth speaker electronics amazon"
-  },
-  {
     "id": "deal_apple_pencil",
     "title": "Apple Pencil (USB-C)",
     "category": "electronics",
@@ -187,15 +250,6 @@
     "price": 59,
     "url": "#",
     "keywords": "apple pencil (usb-c) electronics amazon"
-  },
-  {
-    "id": "deal_beats_solo4",
-    "title": "Beats Solo 4 Wireless On-Ear Headphones",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 129.95,
-    "url": "#",
-    "keywords": "beats solo 4 wireless on-ear headphones electronics amazon"
   },
   {
     "id": "deal_airtag2",
@@ -211,7 +265,7 @@
     "title": "Apple Watch SE 3 Midnight (Cellular)",
     "category": "mobile",
     "store": "Amazon",
-    "price": 249,
+    "price": 219,
     "url": "#",
     "keywords": "apple watch se 3 midnight (cellular) mobile amazon"
   },
@@ -223,41 +277,5 @@
     "price": 43.49,
     "url": "#",
     "keywords": "xbox wireless controller - carbon black gaming amazon"
-  },
-  {
-    "id": "deal_anker_solix",
-    "title": "Anker SOLIX C300 DC Power Station 256Wh",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 149.99,
-    "url": "#",
-    "keywords": "anker solix c300 dc power station 256wh electronics amazon"
-  },
-  {
-    "id": "deal_ue_miniroll",
-    "title": "Ultimate Ears Miniroll Bluetooth Speaker",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 59.99,
-    "url": "#",
-    "keywords": "ultimate ears miniroll bluetooth speaker electronics amazon"
-  },
-  {
-    "id": "deal_kindle_colorsoft",
-    "title": "Amazon Kindle Colorsoft Signature Edition 32GB",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 206.99,
-    "url": "#",
-    "keywords": "amazon kindle colorsoft signature edition 32gb electronics amazon"
-  },
-  {
-    "id": "deal_sonos_roam2",
-    "title": "Sonos Roam 2 Portable Speaker",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 139,
-    "url": "#",
-    "keywords": "sonos roam 2 portable speaker electronics amazon"
   }
 ]
