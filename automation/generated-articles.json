@@ -155,8 +155,38 @@
       "articleFile": "article26.html",
       "title": "Apple iPhone 16 Pro 128GB Unlocked",
       "generatedAt": "2026-03-23T14:01:08.155Z"
+    },
+    "deal_watch_10_titanium": {
+      "articleNum": 27,
+      "articleFile": "article27.html",
+      "title": "Apple Watch Series 10 46mm Cellular Titanium",
+      "generatedAt": "2026-03-24T14:01:25.739Z"
+    },
+    "deal_m4_macbook_air_13": {
+      "articleNum": 28,
+      "articleFile": "article28.html",
+      "title": "Apple MacBook Air 13\" M4 16GB/512GB",
+      "generatedAt": "2026-03-24T14:01:25.740Z"
+    },
+    "deal_ipad_mini_128": {
+      "articleNum": 29,
+      "articleFile": "article29.html",
+      "title": "iPad mini 7 128GB (A17 Pro)",
+      "generatedAt": "2026-03-24T14:01:25.740Z"
+    },
+    "deal_apple_watch_11": {
+      "articleNum": 30,
+      "articleFile": "article30.html",
+      "title": "Apple Watch Series 11 42mm (GPS)",
+      "generatedAt": "2026-03-24T14:01:25.740Z"
+    },
+    "deal_sony_xm5": {
+      "articleNum": 31,
+      "articleFile": "article31.html",
+      "title": "Sony WH-1000XM5 Wireless NC Headphones",
+      "generatedAt": "2026-03-24T14:01:25.741Z"
     }
   },
-  "nextArticleNum": 27,
-  "lastRun": "2026-03-23T14:01:08.155Z"
+  "nextArticleNum": 32,
+  "lastRun": "2026-03-24T14:01:25.741Z"
 }
