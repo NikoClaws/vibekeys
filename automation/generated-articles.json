@@ -185,8 +185,38 @@
       "articleFile": "article31.html",
       "title": "Sony WH-1000XM5 Wireless NC Headphones",
       "generatedAt": "2026-03-24T14:01:25.741Z"
+    },
+    "deal_logitech_g515": {
+      "articleNum": 32,
+      "articleFile": "article32.html",
+      "title": "Logitech G515 Low-Profile Wireless Gaming Keyboard",
+      "generatedAt": "2026-03-25T14:01:21.988Z"
+    },
+    "deal_beats_studio_new": {
+      "articleNum": 33,
+      "articleFile": "article33.html",
+      "title": "Beats Studio Pro Wireless Headphones",
+      "generatedAt": "2026-03-25T14:01:21.989Z"
+    },
+    "deal_beats_solo_4": {
+      "articleNum": 34,
+      "articleFile": "article34.html",
+      "title": "Beats Solo 4 Wireless Headphones",
+      "generatedAt": "2026-03-25T14:01:21.990Z"
+    },
+    "deal_ue_miniroll": {
+      "articleNum": 35,
+      "articleFile": "article35.html",
+      "title": "Ultimate Ears Miniroll Bluetooth Speaker",
+      "generatedAt": "2026-03-25T14:01:21.990Z"
+    },
+    "deal_echo_dot_max": {
+      "articleNum": 36,
+      "articleFile": "article36.html",
+      "title": "Amazon Echo Dot Max with Alexa Plus",
+      "generatedAt": "2026-03-25T14:01:21.991Z"
     }
   },
-  "nextArticleNum": 32,
-  "lastRun": "2026-03-24T14:01:25.741Z"
+  "nextArticleNum": 37,
+  "lastRun": "2026-03-25T14:01:21.991Z"
 }

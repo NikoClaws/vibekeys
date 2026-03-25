@@ -1,5 +1,23 @@
 [
   {
+    "id": "deal_logitech_g515",
+    "title": "Logitech G515 Low-Profile Wireless Gaming Keyboard",
+    "category": "pc-parts",
+    "store": "Amazon",
+    "price": 70,
+    "url": "article32.html",
+    "keywords": "logitech g515 low-profile wireless gaming keyboard pc-parts amazon"
+  },
+  {
+    "id": "deal_beats_studio_new",
+    "title": "Beats Studio Pro Wireless Headphones",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 160,
+    "url": "article33.html",
+    "keywords": "beats studio pro wireless headphones electronics amazon"
+  },
+  {
     "id": "deal_watch_10_titanium",
     "title": "Apple Watch Series 10 46mm Cellular Titanium",
     "category": "mobile",
@@ -9,139 +27,31 @@
     "keywords": "apple watch series 10 46mm cellular titanium mobile amazon"
   },
   {
-    "id": "deal_m4_macbook_air_13",
-    "title": "Apple MacBook Air 13\" M4 16GB/512GB",
+    "id": "deal_beats_solo_4",
+    "title": "Beats Solo 4 Wireless Headphones",
     "category": "electronics",
     "store": "Amazon",
-    "price": 949,
-    "url": "article28.html",
-    "keywords": "apple macbook air 13\" m4 16gb/512gb electronics amazon"
+    "price": 119.99,
+    "url": "article34.html",
+    "keywords": "beats solo 4 wireless headphones electronics amazon"
   },
   {
-    "id": "deal_ipad_mini_128",
-    "title": "iPad mini 7 128GB (A17 Pro)",
+    "id": "deal_ue_miniroll",
+    "title": "Ultimate Ears Miniroll Bluetooth Speaker",
     "category": "electronics",
     "store": "Amazon",
-    "price": 399,
-    "url": "article29.html",
-    "keywords": "ipad mini 7 128gb (a17 pro) electronics amazon"
+    "price": 60,
+    "url": "article35.html",
+    "keywords": "ultimate ears miniroll bluetooth speaker electronics amazon"
   },
   {
-    "id": "deal_dreame_001",
-    "title": "Dreame L10s Pro Ultra Robot Vacuum/Mop",
+    "id": "deal_echo_dot_max",
+    "title": "Amazon Echo Dot Max with Alexa Plus",
     "category": "smart-home",
     "store": "Amazon",
-    "price": 349.99,
-    "url": "article12.html",
-    "keywords": "dreame l10s pro ultra robot vacuum/mop smart-home amazon"
-  },
-  {
-    "id": "deal_apple_watch_11",
-    "title": "Apple Watch Series 11 42mm (GPS)",
-    "category": "mobile",
-    "store": "Amazon",
-    "price": 299,
-    "url": "article30.html",
-    "keywords": "apple watch series 11 42mm (gps) mobile amazon"
-  },
-  {
-    "id": "deal_sony_xm5",
-    "title": "Sony WH-1000XM5 Wireless NC Headphones",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 278,
-    "url": "article31.html",
-    "keywords": "sony wh-1000xm5 wireless nc headphones electronics amazon"
-  },
-  {
-    "id": "deal_asus_rog_portable",
-    "title": "ASUS ROG Strix 17.3\" 240Hz Portable Gaming Monitor",
-    "category": "pc-parts",
-    "store": "Amazon",
-    "price": 399,
-    "url": "article22.html",
-    "keywords": "asus rog strix 17.3\" 240hz portable gaming monitor pc-parts amazon"
-  },
-  {
-    "id": "deal_anker_solix_bundle",
-    "title": "Anker SOLIX C1000 Power Station + Solar Panel Bundle",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 599.99,
-    "url": "#",
-    "keywords": "anker solix c1000 power station + solar panel bundle electronics amazon"
-  },
-  {
-    "id": "deal_fire_tv_omni_75",
-    "title": "Amazon Fire TV Omni Series 75\" 4K UHD Smart TV",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 569.99,
-    "url": "article19.html",
-    "keywords": "amazon fire tv omni series 75\" 4k uhd smart tv electronics amazon"
-  },
-  {
-    "id": "deal_beats_studio",
-    "title": "Beats Studio Pro Wireless Headphones",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 169.99,
-    "url": "article14.html",
-    "keywords": "beats studio pro wireless headphones electronics amazon"
-  },
-  {
-    "id": "deal_ipad_11_128",
-    "title": "Apple iPad 11 128GB (New 2026 Model)",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 299,
-    "url": "#",
-    "keywords": "apple ipad 11 128gb (new 2026 model) electronics amazon"
-  },
-  {
-    "id": "deal_pixel_buds_pro_2",
-    "title": "Google Pixel Buds Pro 2",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 169,
-    "url": "#",
-    "keywords": "google pixel buds pro 2 electronics amazon"
-  },
-  {
-    "id": "deal_bose_qc_earbuds",
-    "title": "Bose QuietComfort Earbuds (2024 Edition)",
-    "category": "electronics",
-    "store": "Amazon",
-    "price": 139,
-    "url": "#",
-    "keywords": "bose quietcomfort earbuds (2024 edition) electronics amazon"
-  },
-  {
-    "id": "deal_lg_b5_oled",
-    "title": "LG B5 55\" OLED 4K Smart TV",
-    "category": "electronics",
-    "store": "Best Buy",
-    "price": 829.99,
-    "url": "article18.html",
-    "keywords": "lg b5 55\" oled 4k smart tv electronics best buy"
-  },
-  {
-    "id": "deal_echo_show_8",
-    "title": "Amazon Echo Show 8 (2025) with Alexa Plus",
-    "category": "smart-home",
-    "store": "Amazon",
-    "price": 140,
-    "url": "#",
-    "keywords": "amazon echo show 8 (2025) with alexa plus smart-home amazon"
-  },
-  {
-    "id": "deal_pixel10_pro_xl",
-    "title": "Google Pixel 10 Pro XL (Open-Box Excellent)",
-    "category": "mobile",
-    "store": "Best Buy",
-    "price": 573.99,
-    "url": "article20.html",
-    "keywords": "google pixel 10 pro xl (open-box excellent) mobile best buy"
+    "price": 75,
+    "url": "article36.html",
+    "keywords": "amazon echo dot max with alexa plus smart-home amazon"
   },
   {
     "id": "deal_sonos_ace",
@@ -153,22 +63,76 @@
     "keywords": "sonos ace wireless headphones electronics amazon"
   },
   {
-    "id": "deal_m5_macbook_pro_24",
-    "title": "MacBook Pro 14\" M5 24GB/1TB (Space Black)",
-    "category": "electronics",
+    "id": "deal_echo_show_11",
+    "title": "Amazon Echo Show 11 (2025) 1080p Smart Display",
+    "category": "smart-home",
     "store": "Amazon",
-    "price": 1799,
+    "price": 170,
     "url": "#",
-    "keywords": "macbook pro 14\" m5 24gb/1tb (space black) electronics amazon"
+    "keywords": "amazon echo show 11 (2025) 1080p smart display smart-home amazon"
   },
   {
-    "id": "deal_iniu_powerbank",
-    "title": "Iniu 20,000mAh 65W USB-C Power Bank",
+    "id": "deal_echo_show_8",
+    "title": "Amazon Echo Show 8 (2025) with Alexa Plus",
+    "category": "smart-home",
+    "store": "Amazon",
+    "price": 140,
+    "url": "#",
+    "keywords": "amazon echo show 8 (2025) with alexa plus smart-home amazon"
+  },
+  {
+    "id": "deal_sony_xm5",
+    "title": "Sony WH-1000XM5 Wireless NC Headphones",
     "category": "electronics",
     "store": "Amazon",
-    "price": 22.94,
-    "url": "article16.html",
-    "keywords": "iniu 20,000mah 65w usb-c power bank electronics amazon"
+    "price": 298,
+    "url": "article31.html",
+    "keywords": "sony wh-1000xm5 wireless nc headphones electronics amazon"
+  },
+  {
+    "id": "deal_pixel_buds_pro_2",
+    "title": "Google Pixel Buds Pro 2",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 169,
+    "url": "#",
+    "keywords": "google pixel buds pro 2 electronics amazon"
+  },
+  {
+    "id": "deal_apple_watch_11",
+    "title": "Apple Watch Series 11 42mm (GPS)",
+    "category": "mobile",
+    "store": "Amazon",
+    "price": 299,
+    "url": "article30.html",
+    "keywords": "apple watch series 11 42mm (gps) mobile amazon"
+  },
+  {
+    "id": "deal_govee_lamp_jbl",
+    "title": "Govee Table Lamp 2 Pro X Sound by JBL",
+    "category": "smart-home",
+    "store": "Amazon",
+    "price": 134.99,
+    "url": "#",
+    "keywords": "govee table lamp 2 pro x sound by jbl smart-home amazon"
+  },
+  {
+    "id": "deal_bose_qc_ultra",
+    "title": "Bose QuietComfort Ultra Headphones",
+    "category": "electronics",
+    "store": "Best Buy",
+    "price": 329,
+    "url": "article21.html",
+    "keywords": "bose quietcomfort ultra headphones electronics best buy"
+  },
+  {
+    "id": "deal_airpods_4_basic",
+    "title": "Apple AirPods 4 (2024)",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 99,
+    "url": "#",
+    "keywords": "apple airpods 4 (2024) electronics amazon"
   },
   {
     "id": "deal_sonos_roam_2",
@@ -180,58 +144,76 @@
     "keywords": "sonos roam 2 portable bluetooth speaker electronics amazon"
   },
   {
-    "id": "deal_fire_tv",
-    "title": "Amazon Fire TV Stick 4K Max (2nd Gen)",
-    "category": "smart-home",
-    "store": "Amazon",
-    "price": 34.99,
-    "url": "#",
-    "keywords": "amazon fire tv stick 4k max (2nd gen) smart-home amazon"
-  },
-  {
-    "id": "deal_beats_buds",
-    "title": "Beats Studio Buds Plus - Translucent",
+    "id": "deal_m4_macbook_air_13",
+    "title": "Apple MacBook Air 13\" M4 16GB/512GB",
     "category": "electronics",
     "store": "Amazon",
-    "price": 99.95,
-    "url": "#",
-    "keywords": "beats studio buds plus - translucent electronics amazon"
+    "price": 949,
+    "url": "article28.html",
+    "keywords": "apple macbook air 13\" m4 16gb/512gb electronics amazon"
   },
   {
-    "id": "deal_echo_dot_max",
-    "title": "Amazon Echo Dot Max with Alexa Plus",
-    "category": "smart-home",
+    "id": "deal_m4_macbook_air_15",
+    "title": "Apple MacBook Air 15\" M4 16GB/512GB",
+    "category": "electronics",
     "store": "Amazon",
-    "price": 75,
+    "price": 1099,
     "url": "#",
-    "keywords": "amazon echo dot max with alexa plus smart-home amazon"
+    "keywords": "apple macbook air 15\" m4 16gb/512gb electronics amazon"
   },
   {
     "id": "deal_airpods_pro3",
     "title": "Apple AirPods Pro 3 with Heart Rate Sensing",
     "category": "electronics",
     "store": "Amazon",
-    "price": 199.99,
+    "price": 199,
     "url": "#",
     "keywords": "apple airpods pro 3 with heart rate sensing electronics amazon"
   },
   {
-    "id": "deal_ipad_air_11_m4",
-    "title": "iPad Air 11\" M4 128GB",
-    "category": "electronics",
+    "id": "deal_apple_watch_11_ti",
+    "title": "Apple Watch Series 11 46mm Titanium",
+    "category": "mobile",
     "store": "Amazon",
-    "price": 559,
+    "price": 649,
     "url": "#",
-    "keywords": "ipad air 11\" m4 128gb electronics amazon"
+    "keywords": "apple watch series 11 46mm titanium mobile amazon"
   },
   {
-    "id": "deal_ue_miniroll",
-    "title": "Ultimate Ears Miniroll Bluetooth Speaker",
+    "id": "deal_lg_b5_oled",
+    "title": "LG B5 55\" OLED AI 4K Smart TV (2025)",
+    "category": "electronics",
+    "store": "Best Buy",
+    "price": 897,
+    "url": "article18.html",
+    "keywords": "lg b5 55\" oled ai 4k smart tv (2025) electronics best buy"
+  },
+  {
+    "id": "deal_airpods_max",
+    "title": "Apple AirPods Max (2024)",
     "category": "electronics",
     "store": "Amazon",
-    "price": 60,
+    "price": 450,
     "url": "#",
-    "keywords": "ultimate ears miniroll bluetooth speaker electronics amazon"
+    "keywords": "apple airpods max (2024) electronics amazon"
+  },
+  {
+    "id": "deal_airpods_4_anc",
+    "title": "Apple AirPods 4 with Active Noise Cancellation",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 149,
+    "url": "#",
+    "keywords": "apple airpods 4 with active noise cancellation electronics amazon"
+  },
+  {
+    "id": "deal_ipad_11_128",
+    "title": "Apple iPad 11 128GB (New 2026 Model)",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 299,
+    "url": "#",
+    "keywords": "apple ipad 11 128gb (new 2026 model) electronics amazon"
   },
   {
     "id": "deal_echo_studio",
@@ -243,12 +225,57 @@
     "keywords": "amazon echo studio (2025) spatial audio speaker smart-home amazon"
   },
   {
-    "id": "deal_beats_solo_4",
-    "title": "Beats Solo 4 Wireless Headphones",
+    "id": "deal_ipad_air_13_m4",
+    "title": "iPad Air 13\" M4 128GB",
     "category": "electronics",
     "store": "Amazon",
-    "price": 129.99,
+    "price": 749,
     "url": "#",
-    "keywords": "beats solo 4 wireless headphones electronics amazon"
+    "keywords": "ipad air 13\" m4 128gb electronics amazon"
+  },
+  {
+    "id": "deal_ipad_air_11_m4",
+    "title": "iPad Air 11\" M4 128GB",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 559,
+    "url": "#",
+    "keywords": "ipad air 11\" m4 128gb electronics amazon"
+  },
+  {
+    "id": "deal_tcl_qm6k_55",
+    "title": "TCL 55\" QM6K Mini-LED 4K Smart TV (2025)",
+    "category": "electronics",
+    "store": "Best Buy",
+    "price": 449.99,
+    "url": "#",
+    "keywords": "tcl 55\" qm6k mini-led 4k smart tv (2025) electronics best buy"
+  },
+  {
+    "id": "deal_m5_macbook_pro_14",
+    "title": "MacBook Pro 14\" M5 16GB/512GB",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 1479,
+    "url": "#",
+    "keywords": "macbook pro 14\" m5 16gb/512gb electronics amazon"
+  },
+  {
+    "id": "deal_sonos_move_2",
+    "title": "Sonos Move 2 Portable Speaker",
+    "category": "electronics",
+    "store": "Amazon",
+    "price": 399,
+    "url": "#",
+    "keywords": "sonos move 2 portable speaker electronics amazon"
+  },
+  {
+    "id": "deal_shokz_openrun",
+    "title": "Shokz OpenRun Bone Conduction Headphones",
+    "category": "electronics",
+    "store": "Best Buy",
+    "price": 99.95,
+    "url": "#",
+    "keywords": "shokz openrun bone conduction headphones electronics best buy"
   }
 ]
