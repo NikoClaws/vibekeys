@@ -4,6 +4,8 @@ on: [push]
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
       - uses: cloudflare/pages-action@v1
@@ -12,4 +14,3 @@ jobs:
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
           projectName: vibekeys
           directory: "."
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
