@@ -4,14 +4,31 @@ on: [push]
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
       - uses: actions/checkout@v4
-      - uses: cloudflare/pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          projectName: vibekeys
-          directory: "."
-          productionDeployment: true
+      - name: Deploy to Cloudflare Pages
+        run: |
+          RESULT=$(curl -s -X POST \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/vibekeys/deployments" \
+            -d "{\"branch\":\"master\"}")
+          echo "Deployment result: $RESULT"
+          DEPLOYMENT_ID=$(echo $RESULT | python3 -c "import sys,json; print(json.load(sys.stdin)['result']['id'])")
+          echo "Deployment ID: $DEPLOYMENT_ID"
+          # Poll for completion
+          for i in {1..30}; do
+            STATUS=$(curl -s \
+              -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+              "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/vibekeys/deployments/$DEPLOYMENT_ID" \
+              | python3 -c "import sys,json; print(json.load(sys.stdin)['result']['latest_stage']['status'])")
+            echo "Status: $STATUS"
+            if [ "$STATUS" = "success" ]; then
+              echo "Deployment successful!"
+              break
+            elif [ "$STATUS" = "failed" ]; then
+              echo "Deployment failed!"
+              exit 1
+            fi
+            sleep 5
+          done
