@@ -1,6 +1,54 @@
 {
   "deals": [
     {
+      "id": "deal_sony_xm5_apr6",
+      "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+      "price": 249.99,
+      "originalPrice": 399.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0BXYCS74H?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/sony-xm5.jpg",
+      "created": "2026-04-06T12:00:00Z",
+      "score": 1190
+    },
+    {
+      "id": "deal_bose_qc",
+      "title": "Bose QuietComfort Wireless NC Headphones",
+      "price": 249.0,
+      "originalPrice": 349.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0CCZ26B5V?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/bose-qc.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1160
+    },
+    {
+      "id": "deal_nothing_ear_a",
+      "title": "Nothing Ear (a) Wireless Earbuds 45dB ANC",
+      "price": 59.0,
+      "originalPrice": 109.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0CXPR5412?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/nothing-ear-a.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1158
+    },
+    {
+      "id": "deal_sony_wf_xm5",
+      "title": "Sony WF-1000XM5 Wireless NC Earbuds",
+      "price": 178.0,
+      "originalPrice": 298.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0C33XXQS5?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/sony-wf-xm5.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1157
+    },
+    {
       "id": "deal_logitech_g515",
       "title": "Logitech G515 Low-Profile Wireless Gaming Keyboard",
       "price": 70.0,
@@ -13,6 +61,18 @@
       "score": 1156
     },
     {
+      "id": "deal_razer_blackshark_v2x",
+      "title": "Razer BlackShark V2 X Gaming Headset 7.1 Surround",
+      "price": 40.0,
+      "originalPrice": 59.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B086PKMZ21?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "images/razer-blackshark.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1155
+    },
+    {
       "id": "deal_beats_studio_new",
       "title": "Beats Studio Pro Wireless Headphones",
       "price": 160.0,
@@ -23,6 +83,42 @@
       "imageUrl": "images/beats-studio-pro.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1154
+    },
+    {
+      "id": "deal_razer_blackshark_v2pro",
+      "title": "Razer BlackShark V2 Pro Wireless Gaming Headset",
+      "price": 89.99,
+      "originalPrice": 199.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0BY2NX4FZ?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "images/razer-blackshark-pro.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1153
+    },
+    {
+      "id": "deal_dji_mini_4k",
+      "title": "DJI Mini 4K Fly More Combo Drone",
+      "price": 309.0,
+      "originalPrice": 449.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0D1PQJRQP?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/dji-mini-4k.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1152
+    },
+    {
+      "id": "deal_xbox_controller",
+      "title": "Xbox Wireless Controller Carbon Black",
+      "price": 44.99,
+      "originalPrice": 64.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B08DF248LD?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "images/xbox-controller.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1150
     },
     {
       "id": "deal_watch_10_titanium",
@@ -61,6 +157,66 @@
       "score": 1140
     },
     {
+      "id": "deal_ring_indoor_cam",
+      "title": "Ring Indoor Cam Plus 2K Wired Security Camera",
+      "price": 39.99,
+      "originalPrice": 59.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0DXM9Y8J1?tag=vibekeys-20",
+      "category": "smart-home",
+      "imageUrl": "images/ring-indoor-cam.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1148
+    },
+    {
+      "id": "deal_blink_mini2",
+      "title": "Blink Mini 2 Indoor Smart Security Camera",
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0BWY4SD1S?tag=vibekeys-20",
+      "category": "smart-home",
+      "imageUrl": "images/blink-mini-2.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1147
+    },
+    {
+      "id": "deal_apple_watch_se2",
+      "title": "Apple Watch SE 2 (40mm, GPS)",
+      "price": 189.0,
+      "originalPrice": 249.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0CHX7C1L7?tag=vibekeys-20",
+      "category": "mobile",
+      "imageUrl": "images/apple-watch-se2.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1146
+    },
+    {
+      "id": "deal_kindle_colorsoft",
+      "title": "Kindle Colorsoft (2024) Color E-Reader",
+      "price": 169.99,
+      "originalPrice": 249.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0CN1P6X7C?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/kindle-colorsoft.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1145
+    },
+    {
+      "id": "deal_kindle_paperwhite_sig",
+      "title": "Kindle Paperwhite Signature Edition 32GB",
+      "price": 159.99,
+      "originalPrice": 199.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0CFPJYX2T?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/kindle-paperwhite.jpg",
+      "created": "2026-04-03T12:00:00Z",
+      "score": 1142
+    },
+    {
       "id": "deal_echo_dot_max",
       "title": "Amazon Echo Dot Max with Alexa Plus",
       "price": 75.0,
@@ -71,6 +227,18 @@
       "imageUrl": "images/echo-dot-max.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1137
+    },
+    {
+      "id": "deal_lg_b5_oled",
+      "title": "LG B5 55\" OLED AI 4K Smart TV (2025)",
+      "price": 897.0,
+      "originalPrice": 1299.99,
+      "store": "Best Buy",
+      "url": "https://www.bestbuy.com/site/lg-b5-55-oled?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/lg-b5-oled.jpg",
+      "created": "2026-03-25T14:00:00Z",
+      "score": 1131
     },
     {
       "id": "deal_sonos_ace",
@@ -97,30 +265,6 @@
       "score": 1132
     },
     {
-      "id": "deal_echo_show_8",
-      "title": "Amazon Echo Show 8 (2025) with Alexa Plus",
-      "price": 140.0,
-      "originalPrice": 200.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DC8ZMR1P?tag=vibekeys-20",
-      "category": "smart-home",
-      "imageUrl": "images/echo-show-8.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1130
-    },
-    {
-      "id": "deal_sony_xm5",
-      "title": "Sony WH-1000XM5 Wireless NC Headphones",
-      "price": 298.0,
-      "originalPrice": 398.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0BXYCS74H?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/sony-xm5.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1125
-    },
-    {
       "id": "deal_pixel_buds_pro_2",
       "title": "Google Pixel Buds Pro 2",
       "price": 169.0,
@@ -145,6 +289,18 @@
       "score": 1125
     },
     {
+      "id": "deal_tcl_qm6k_55",
+      "title": "TCL 55\" QM6K Mini-LED 4K Smart TV (2025)",
+      "price": 449.99,
+      "originalPrice": 599.99,
+      "store": "Best Buy",
+      "url": "https://www.bestbuy.com/site/tcl-55-qm6k?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/tcl-qm6k.jpg",
+      "created": "2026-03-25T14:00:00Z",
+      "score": 1125
+    },
+    {
       "id": "deal_govee_lamp_jbl",
       "title": "Govee Table Lamp 2 Pro X Sound by JBL",
       "price": 134.99,
@@ -155,6 +311,18 @@
       "imageUrl": "images/govee-lamp-jbl.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1125
+    },
+    {
+      "id": "deal_shokz_openrun",
+      "title": "Shokz OpenRun Bone Conduction Headphones",
+      "price": 99.95,
+      "originalPrice": 129.95,
+      "store": "Best Buy",
+      "url": "https://www.bestbuy.com/site/shokz-openrun?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/shokz-openrun.jpg",
+      "created": "2026-03-25T14:00:00Z",
+      "score": 1123
     },
     {
       "id": "deal_bose_qc_ultra",
@@ -193,30 +361,6 @@
       "score": 1122
     },
     {
-      "id": "deal_m4_macbook_air_13",
-      "title": "Apple MacBook Air 13\" M4 16GB/512GB",
-      "price": 949.0,
-      "originalPrice": 1199.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DZD9NV7L?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/macbook-air-m4-13.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1121
-    },
-    {
-      "id": "deal_m4_macbook_air_15",
-      "title": "Apple MacBook Air 15\" M4 16GB/512GB",
-      "price": 1099.0,
-      "originalPrice": 1399.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DZDC2XD2?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/macbook-air-m4-15.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1121
-    },
-    {
       "id": "deal_airpods_pro3",
       "title": "Apple AirPods Pro 3 with Heart Rate Sensing",
       "price": 199.0,
@@ -241,30 +385,6 @@
       "score": 1119
     },
     {
-      "id": "deal_lg_b5_oled",
-      "title": "LG B5 55\" OLED AI 4K Smart TV (2025)",
-      "price": 897.0,
-      "originalPrice": 1299.99,
-      "store": "Best Buy",
-      "url": "https://www.bestbuy.com/site/lg-b5-55-oled?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/lg-b5-oled.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1131
-    },
-    {
-      "id": "deal_airpods_max",
-      "title": "Apple AirPods Max (2024)",
-      "price": 450.0,
-      "originalPrice": 549.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DGJC52FP?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/airpods-max.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1118
-    },
-    {
       "id": "deal_airpods_4_anc",
       "title": "Apple AirPods 4 with Active Noise Cancellation",
       "price": 149.0,
@@ -277,16 +397,52 @@
       "score": 1117
     },
     {
-      "id": "deal_ipad_11_128",
-      "title": "Apple iPad 11 128GB (New 2026 Model)",
-      "price": 299.0,
-      "originalPrice": 349.0,
+      "id": "deal_m4_macbook_air_13",
+      "title": "Apple MacBook Air 13\" M4 16GB/512GB",
+      "price": 949.0,
+      "originalPrice": 1199.0,
       "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DZ75TN5F?tag=vibekeys-20",
+      "url": "https://www.amazon.com/dp/B0DZD9NV7L?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/ipad-11.jpg",
+      "imageUrl": "images/macbook-air-m4-13.jpg",
       "created": "2026-03-25T14:00:00Z",
-      "score": 1114
+      "score": 1121
+    },
+    {
+      "id": "deal_m4_macbook_air_15",
+      "title": "Apple MacBook Air 15\" M4 16GB/512GB",
+      "price": 1099.0,
+      "originalPrice": 1399.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0DZDC2XD2?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/macbook-air-m4-15.jpg",
+      "created": "2026-03-25T14:00:00Z",
+      "score": 1121
+    },
+    {
+      "id": "deal_ipad_air_11_m4_apr6",
+      "title": "iPad Air 11\" M4 128GB (2026)",
+      "price": 559.0,
+      "originalPrice": 599.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4J?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/ipad-air-m4.jpg",
+      "created": "2026-04-06T12:00:00Z",
+      "score": 1195
+    },
+    {
+      "id": "deal_m5_macbook_air_15_apr6",
+      "title": "Apple MacBook Air 15\" M5 16GB/512GB (2026)",
+      "price": 949.0,
+      "originalPrice": 1199.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0FWD6SKL6?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "images/macbook-air-m4-15.jpg",
+      "created": "2026-04-06T12:00:00Z",
+      "score": 1192
     },
     {
       "id": "deal_echo_studio",
@@ -301,222 +457,18 @@
       "score": 1114
     },
     {
-      "id": "deal_ipad_air_13_m4",
-      "title": "iPad Air 13\" M4 128GB",
-      "price": 749.0,
-      "originalPrice": 799.0,
+      "id": "deal_echo_show_8",
+      "title": "Amazon Echo Show 8 (2025) with Alexa Plus",
+      "price": 140.0,
+      "originalPrice": 200.0,
       "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0GQVLJGJH?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/ipad-air-13-m4.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1106
-    },
-    {
-      "id": "deal_ipad_air_11_m4",
-      "title": "iPad Air 11\" M4 128GB",
-      "price": 559.0,
-      "originalPrice": 599.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0GQVBJT4J?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/ipad-air-m4.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1107
-    },
-    {
-      "id": "deal_tcl_qm6k_55",
-      "title": "TCL 55\" QM6K Mini-LED 4K Smart TV (2025)",
-      "price": 449.99,
-      "originalPrice": 599.99,
-      "store": "Best Buy",
-      "url": "https://www.bestbuy.com/site/tcl-55-qm6k?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/tcl-qm6k.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1125
-    },
-    {
-      "id": "deal_m5_macbook_pro_14",
-      "title": "MacBook Pro 14\" M5 16GB/512GB",
-      "price": 1479.0,
-      "originalPrice": 1599.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0FWD6SKL6?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/macbook-pro-m5.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1108
-    },
-    {
-      "id": "deal_sonos_move_2",
-      "title": "Sonos Move 2 Portable Speaker",
-      "price": 399.0,
-      "originalPrice": 449.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0CGGYYK2D?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/sonos-move-2.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1111
-    },
-    {
-      "id": "deal_shokz_openrun",
-      "title": "Shokz OpenRun Bone Conduction Headphones",
-      "price": 99.95,
-      "originalPrice": 129.95,
-      "store": "Best Buy",
-      "url": "https://www.bestbuy.com/site/shokz-openrun?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/shokz-openrun.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1123
-    },
-    {
-      "id": "deal_bose_qc",
-      "title": "Bose QuietComfort Wireless NC Headphones",
-      "price": 249.0,
-      "originalPrice": 349.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0CCZ26B5V?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/bose-qc.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1160
-    },
-    {
-      "id": "deal_razer_blackshark_v2x",
-      "title": "Razer BlackShark V2 X Gaming Headset 7.1 Surround",
-      "price": 40.0,
-      "originalPrice": 59.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B086PKMZ21?tag=vibekeys-20",
-      "category": "gaming",
-      "imageUrl": "images/razer-blackshark.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1155
-    },
-    {
-      "id": "deal_xbox_controller",
-      "title": "Xbox Wireless Controller Carbon Black",
-      "price": 44.99,
-      "originalPrice": 64.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B08DF248LD?tag=vibekeys-20",
-      "category": "gaming",
-      "imageUrl": "images/xbox-controller.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1150
-    },
-    {
-      "id": "deal_ring_indoor_cam",
-      "title": "Ring Indoor Cam Plus 2K Wired Security Camera",
-      "price": 39.99,
-      "originalPrice": 59.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DXM9Y8J1?tag=vibekeys-20",
+      "url": "https://www.amazon.com/dp/B0DC8ZMR1P?tag=vibekeys-20",
       "category": "smart-home",
-      "imageUrl": "images/ring-indoor-cam.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1148
-    },
-    {
-      "id": "deal_nothing_ear_a",
-      "title": "Nothing Ear (a) Wireless Earbuds 45dB ANC",
-      "price": 59.0,
-      "originalPrice": 109.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0CXPR5412?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/nothing-ear-a.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1158
-    },
-    {
-      "id": "deal_kindle_colorsoft",
-      "title": "Kindle Colorsoft (2024) Color E-Reader",
-      "price": 169.99,
-      "originalPrice": 249.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0CN1P6X7C?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/kindle-colorsoft.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1145
-    },
-    {
-      "id": "deal_kindle_paperwhite_sig",
-      "title": "Kindle Paperwhite Signature Edition 32GB",
-      "price": 159.99,
-      "originalPrice": 199.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0CFPJYX2T?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/kindle-paperwhite.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1142
-    },
-    {
-      "id": "deal_dji_mini_4k",
-      "title": "DJI Mini 4K Fly More Combo Drone",
-      "price": 309.0,
-      "originalPrice": 449.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0D1PQJRQP?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/dji-mini-4k.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1152
-    },
-    {
-      "id": "deal_sony_wf_xm5",
-      "title": "Sony WF-1000XM5 Wireless NC Earbuds",
-      "price": 178.0,
-      "originalPrice": 298.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0C33XXQS5?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "images/sony-wf-xm5.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1157
-    },
-    {
-      "id": "deal_razer_blackshark_v2pro",
-      "title": "Razer BlackShark V2 Pro Wireless Gaming Headset",
-      "price": 89.99,
-      "originalPrice": 199.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0BY2NX4FZ?tag=vibekeys-20",
-      "category": "gaming",
-      "imageUrl": "images/razer-blackshark-pro.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1153
-    },
-    {
-      "id": "deal_apple_watch_se2",
-      "title": "Apple Watch SE 2 (40mm, GPS)",
-      "price": 189.0,
-      "originalPrice": 249.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0CHX7C1L7?tag=vibekeys-20",
-      "category": "mobile",
-      "imageUrl": "images/apple-watch-se2.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1146
-    },
-    {
-      "id": "deal_blink_mini2",
-      "title": "Blink Mini 2 Indoor Smart Security Camera",
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0BWY4SD1S?tag=vibekeys-20",
-      "category": "smart-home",
-      "imageUrl": "images/blink-mini-2.jpg",
-      "created": "2026-04-03T12:00:00Z",
-      "score": 1147
+      "imageUrl": "images/echo-show-8.jpg",
+      "created": "2026-03-25T14:00:00Z",
+      "score": 1130
     }
   ],
-  "lastUpdated": "2026-03-25T14:00:00Z",
+  "lastUpdated": "2026-04-06T12:00:00Z",
   "affiliateTag": "vibekeys-20"
 }
