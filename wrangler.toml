@@ -1,10 +1,8 @@
 name = "vibekeys"
 main = "worker.js"
 compatibility_date = "2025-09-27"
+account_id = "2693872a75c28c14afab49f7b2746082"
 
 [assets]
-directory = "./"
+directory = "."
 binding = "ASSETS"
-
-[observability]
-enabled = true
