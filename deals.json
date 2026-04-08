@@ -8,7 +8,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0BXYCS74H?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/sony-xm5-v2.jpg",
+      "imageUrl": "img/sony-xm5-v2.jpg",
       "created": "2026-04-06T12:00:00Z",
       "score": 1190
     },
@@ -20,7 +20,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0CCZ26B5V?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/bose-qc-v2.jpg",
+      "imageUrl": "img/bose-qc-v2.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1160
     },
@@ -32,7 +32,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0CXPR5412?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/nothing-ear-a-v2.jpg",
+      "imageUrl": "img/nothing-ear-a-v2.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1158
     },
@@ -44,7 +44,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0C33XXQS5?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/sony-wf-xm5.jpg",
+      "imageUrl": "img/sony-wf-xm5.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1157
     },
@@ -56,7 +56,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0D6XV1VY2?tag=vibekeys-20",
       "category": "pc-parts",
-      "imageUrl": "images/logitech-g515.jpg",
+      "imageUrl": "img/logitech-g515.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1156
     },
@@ -68,7 +68,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B086PKMZ21?tag=vibekeys-20",
       "category": "gaming",
-      "imageUrl": "images/razer-blackshark.jpg",
+      "imageUrl": "img/razer-blackshark.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1155
     },
@@ -80,7 +80,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0FHM61VTK?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/beats-studio-pro.jpg",
+      "imageUrl": "img/beats-studio-pro.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1154
     },
@@ -92,7 +92,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0BY2NX4FZ?tag=vibekeys-20",
       "category": "gaming",
-      "imageUrl": "images/razer-blackshark-pro.jpg",
+      "imageUrl": "img/razer-blackshark-pro.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1153
     },
@@ -104,7 +104,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0D1PQJRQP?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/dji-mini-4k.jpg",
+      "imageUrl": "img/dji-mini-4k.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1152
     },
@@ -116,7 +116,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B08DF248LD?tag=vibekeys-20",
       "category": "gaming",
-      "imageUrl": "images/xbox-controller.jpg",
+      "imageUrl": "img/xbox-controller.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1150
     },
@@ -128,7 +128,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DGJ3PQTN?tag=vibekeys-20",
       "category": "mobile",
-      "imageUrl": "images/apple-watch-10-titanium.jpg",
+      "imageUrl": "img/apple-watch-10-titanium.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1140
     },
@@ -140,7 +140,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DDQLGDY3?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/beats-solo-4.jpg",
+      "imageUrl": "img/beats-solo-4.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1140
     },
@@ -152,7 +152,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DCJ9N5XR?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/ue-miniroll.jpg",
+      "imageUrl": "img/ue-miniroll.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1140
     },
@@ -164,7 +164,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DXM9Y8J1?tag=vibekeys-20",
       "category": "smart-home",
-      "imageUrl": "images/ring-indoor-cam.jpg",
+      "imageUrl": "img/ring-indoor-cam.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1148
     },
@@ -176,7 +176,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0BWY4SD1S?tag=vibekeys-20",
       "category": "smart-home",
-      "imageUrl": "images/blink-mini-2.jpg",
+      "imageUrl": "img/blink-mini-2.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1147
     },
@@ -188,7 +188,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0CHX7C1L7?tag=vibekeys-20",
       "category": "mobile",
-      "imageUrl": "images/apple-watch-se2.jpg",
+      "imageUrl": "img/apple-watch-se2.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1146
     },
@@ -200,7 +200,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0CN1P6X7C?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/kindle-colorsoft.jpg",
+      "imageUrl": "img/kindle-colorsoft.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1145
     },
@@ -212,7 +212,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0CFPJYX2T?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/kindle-paperwhite.jpg",
+      "imageUrl": "img/kindle-paperwhite.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1142
     },
@@ -224,7 +224,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0D6SX8VLQ?tag=vibekeys-20",
       "category": "smart-home",
-      "imageUrl": "images/echo-dot-max.jpg",
+      "imageUrl": "img/echo-dot-max.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1137
     },
@@ -236,7 +236,7 @@
       "store": "Best Buy",
       "url": "https://www.bestbuy.com/site/lg-b5-55-oled?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/lg-b5-oled.jpg",
+      "imageUrl": "img/lg-b5-oled.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1131
     },
@@ -248,7 +248,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0CYHGTMNH?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/sonos-ace.jpg",
+      "imageUrl": "img/sonos-ace.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1133
     },
@@ -260,7 +260,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DC91H3JK?tag=vibekeys-20",
       "category": "smart-home",
-      "imageUrl": "images/echo-show-11.jpg",
+      "imageUrl": "img/echo-show-11.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1132
     },
@@ -272,7 +272,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0D79ND3N7?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/pixel-buds-pro-2.jpg",
+      "imageUrl": "img/pixel-buds-pro-2.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1126
     },
@@ -284,7 +284,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0FQFL8PZ5?tag=vibekeys-20",
       "category": "mobile",
-      "imageUrl": "images/apple-watch-11-gps.jpg",
+      "imageUrl": "img/apple-watch-11-gps.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1125
     },
@@ -296,7 +296,7 @@
       "store": "Best Buy",
       "url": "https://www.bestbuy.com/site/tcl-55-qm6k?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/tcl-qm6k.jpg",
+      "imageUrl": "img/tcl-qm6k.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1125
     },
@@ -308,7 +308,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0F3D8RB4H?tag=vibekeys-20",
       "category": "smart-home",
-      "imageUrl": "images/govee-lamp-jbl.jpg",
+      "imageUrl": "img/govee-lamp-jbl.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1125
     },
@@ -320,7 +320,7 @@
       "store": "Best Buy",
       "url": "https://www.bestbuy.com/site/shokz-openrun?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/shokz-openrun.jpg",
+      "imageUrl": "img/shokz-openrun.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1123
     },
@@ -332,7 +332,7 @@
       "store": "Best Buy",
       "url": "https://www.bestbuy.com/site/bose-qc-ultra?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/bose-qc-ultra.jpg",
+      "imageUrl": "img/bose-qc-ultra.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1123
     },
@@ -344,7 +344,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DGHMNQ5Z?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/airpods-4.jpg",
+      "imageUrl": "img/airpods-4.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1123
     },
@@ -356,7 +356,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0CY6S748H?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/sonos-roam-2.jpg",
+      "imageUrl": "img/sonos-roam-2.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1122
     },
@@ -368,7 +368,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/airpods-pro-3.jpg",
+      "imageUrl": "img/airpods-pro-3.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1120
     },
@@ -380,7 +380,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0FQG8HF85?tag=vibekeys-20",
       "category": "mobile",
-      "imageUrl": "images/apple-watch-11-titanium.jpg",
+      "imageUrl": "img/apple-watch-11-titanium.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1119
     },
@@ -392,7 +392,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DGJ7HYG1?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/airpods-4-anc.jpg",
+      "imageUrl": "img/airpods-4-anc.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1117
     },
@@ -404,7 +404,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DZD9NV7L?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/macbook-air-m4-13.jpg",
+      "imageUrl": "img/macbook-air-m4-13.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1121
     },
@@ -416,7 +416,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DZDC2XD2?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/macbook-air-m4-15.jpg",
+      "imageUrl": "img/macbook-air-m4-15.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1121
     },
@@ -428,7 +428,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0GQVBJT4J?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/ipad-air-m4.jpg",
+      "imageUrl": "img/ipad-air-m4.jpg",
       "created": "2026-04-06T12:00:00Z",
       "score": 1195
     },
@@ -440,7 +440,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0FWD6SKL6?tag=vibekeys-20",
       "category": "electronics",
-      "imageUrl": "images/macbook-air-m4-15.jpg",
+      "imageUrl": "img/macbook-air-m4-15.jpg",
       "created": "2026-04-06T12:00:00Z",
       "score": 1192
     },
@@ -452,7 +452,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DMQ1QMVV?tag=vibekeys-20",
       "category": "smart-home",
-      "imageUrl": "images/echo-studio.jpg",
+      "imageUrl": "img/echo-studio.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1114
     },
@@ -464,7 +464,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.com/dp/B0DC8ZMR1P?tag=vibekeys-20",
       "category": "smart-home",
-      "imageUrl": "images/echo-show-8.jpg",
+      "imageUrl": "img/echo-show-8.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1130
     }
