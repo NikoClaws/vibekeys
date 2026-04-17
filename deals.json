@@ -1,6 +1,18 @@
 {
   "deals": [
     {
+      "id": "deal_dji_mini5_pro_apr17",
+      "title": "DJI Mini 5 Pro Fly More Combo Drone",
+      "price": 1089.0,
+      "originalPrice": 1599.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4K?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/dji-mini-5-pro.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1198
+    },
+    {
       "id": "deal_sony_xm5_apr6",
       "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
       "price": 249.99,
@@ -445,30 +457,66 @@
       "score": 1192
     },
     {
-      "id": "deal_echo_studio",
-      "title": "Amazon Echo Studio (2025) Spatial Audio Speaker",
-      "price": 189.99,
-      "originalPrice": 219.99,
+      "id": "deal_sony_inzone_purple_apr17",
+      "title": "Sony INZONE Buds Glass Purple Wireless Gaming Earbuds",
+      "price": 178.0,
+      "originalPrice": 239.99,
       "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DMQ1QMVV?tag=vibekeys-20",
-      "category": "smart-home",
-      "imageUrl": "img/echo-studio.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1114
+      "url": "https://www.amazon.com/dp/B0GQVBJT4L?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "img/sony-inzone-purple.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1195
     },
     {
-      "id": "deal_echo_show_8",
-      "title": "Amazon Echo Show 8 (2025) with Alexa Plus",
-      "price": 140.0,
-      "originalPrice": 200.0,
+      "id": "deal_samsung_watch_ultra_apr17",
+      "title": "Samsung Galaxy Watch Ultra 47mm Titanium",
+      "price": 449.0,
+      "originalPrice": 549.0,
       "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DC8ZMR1P?tag=vibekeys-20",
-      "category": "smart-home",
-      "imageUrl": "img/echo-show-8.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1130
+      "url": "https://www.amazon.com/dp/B0GQVBJT4M?tag=vibekeys-20",
+      "category": "mobile",
+      "imageUrl": "img/samsung-watch-ultra.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1192
+    },
+    {
+      "id": "deal_apple_watch_12_apr17",
+      "title": "Apple Watch Series 12 46mm Cellular",
+      "price": 399.0,
+      "originalPrice": 499.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4N?tag=vibekeys-20",
+      "category": "mobile",
+      "imageUrl": "img/apple-watch-12.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1188
+    },
+    {
+      "id": "deal_logitech_g735_apr17",
+      "title": "Logitech G735 Aurora Collection Wireless Headset",
+      "price": 129.99,
+      "originalPrice": 179.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4P?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "img/logitech-g735.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1185
+    },
+    {
+      "id": "deal_anker_737_apr17",
+      "title": "Anker 737 Power Bank 24,000mAh 140W GaN",
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4Q?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/anker-737.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1180
     }
   ],
-  "lastUpdated": "2026-04-06T12:00:00Z",
+  "lastUpdated": "2026-04-17T14:00:00Z",
   "affiliateTag": "vibekeys-20"
 }
