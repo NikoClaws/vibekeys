@@ -1,6 +1,30 @@
 {
   "deals": [
     {
+      "id": "deal_airpods_pro3_apr18",
+      "title": "Apple AirPods Pro 3 with Heart Rate Sensing & Live Translation",
+      "price": 199.99,
+      "originalPrice": 249.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/airpods-pro-3.jpg",
+      "created": "2026-04-18T14:00:00Z",
+      "score": 1199
+    },
+    {
+      "id": "deal_dji_mini5_pro_flymore_apr18_v2",
+      "title": "DJI Mini 5 Pro Fly More Combo Drone - 00 OFF",
+      "price": 1089.0,
+      "originalPrice": 1599.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4K?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/dji-mini-5-pro-flymore.jpg",
+      "created": "2026-04-18T16:45:00Z",
+      "score": 1199
+    },
+    {
       "id": "deal_dji_mini5_pro_apr17",
       "title": "DJI Mini 5 Pro Fly More Combo Drone",
       "price": 1089.0,
@@ -13,6 +37,210 @@
       "score": 1198
     },
     {
+      "id": "deal_macbook_air_13_m5_apr18",
+      "title": "Apple MacBook Air 13\" M5 16GB/512GB (2026)",
+      "price": 999.0,
+      "originalPrice": 1099.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M7?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/macbook-air-13-m5.jpg",
+      "created": "2026-04-18T16:45:00Z",
+      "score": 1198
+    },
+    {
+      "id": "deal_sony_xm6_apr18",
+      "title": "Sony WH-1000XM6 Wireless Noise Cancelling Headphones",
+      "price": 349.99,
+      "originalPrice": 449.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M2?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/sony-xm6.jpg",
+      "created": "2026-04-18T14:55:00Z",
+      "score": 1197
+    },
+    {
+      "id": "deal_sony_wh1000xm6_apr18",
+      "title": "Sony WH-1000XM6 Wireless Noise Cancelling Headphones",
+      "price": 349.99,
+      "originalPrice": 449.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M2?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/sony-wh1000xm6.jpg",
+      "created": "2026-04-18T16:45:00Z",
+      "score": 1197
+    },
+    {
+      "id": "deal_samsung_s25_ultra_apr18",
+      "title": "Samsung Galaxy S25 Ultra 512GB (Unlocked)",
+      "price": 1041.59,
+      "originalPrice": 1379.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4R?tag=vibekeys-20",
+      "category": "mobile",
+      "imageUrl": "img/samsung-s25-ultra.jpg",
+      "created": "2026-04-18T14:00:00Z",
+      "score": 1196
+    },
+    {
+      "id": "deal_macbook_air_15_m5_apr18",
+      "title": "Apple MacBook Air 15\" M5 16GB/512GB (2026)",
+      "price": 1149.0,
+      "originalPrice": 1399.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M3?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/macbook-air-15-m5.jpg",
+      "created": "2026-04-18T14:55:00Z",
+      "score": 1196
+    },
+    {
+      "id": "deal_lg_ultragear_39gx950b_apr18_v2",
+      "title": "LG UltraGear 39GX950B 39\" OLED Gaming Monitor",
+      "price": 1799.99,
+      "originalPrice": 2299.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M4?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "img/lg-ultragear-39gx950b-v2.jpg",
+      "created": "2026-04-18T16:45:00Z",
+      "score": 1196
+    },
+    {
+      "id": "deal_ipad_air_11_m4_apr6",
+      "title": "iPad Air 11\" M4 128GB (2026)",
+      "price": 559.0,
+      "originalPrice": 599.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4J?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/ipad-air-m4.jpg",
+      "created": "2026-04-06T12:00:00Z",
+      "score": 1195
+    },
+    {
+      "id": "deal_sony_inzone_purple_apr17",
+      "title": "Sony INZONE Buds Glass Purple Wireless Gaming Earbuds",
+      "price": 178.0,
+      "originalPrice": 239.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4L?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "img/sony-inzone-purple.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1195
+    },
+    {
+      "id": "deal_lg_ultragear_39gx950b_apr18",
+      "title": "LG UltraGear 39GX950B 39\" OLED Gaming Monitor",
+      "price": 1799.99,
+      "originalPrice": 2299.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M4?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "img/lg-ultragear-39gx950b.jpg",
+      "created": "2026-04-18T14:55:00Z",
+      "score": 1195
+    },
+    {
+      "id": "deal_samsung_s25_ultra_512gb_titanium_apr18",
+      "title": "Samsung Galaxy S25 Ultra 512GB Titanium (Unlocked)",
+      "price": 1049.99,
+      "originalPrice": 1379.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M5?tag=vibekeys-20",
+      "category": "mobile",
+      "imageUrl": "img/samsung-s25-ultra-titanium-v2.jpg",
+      "created": "2026-04-18T16:45:00Z",
+      "score": 1195
+    },
+    {
+      "id": "deal_lg_oled_b5_55_apr18",
+      "title": "LG B5 55\" OLED 4K Smart TV (2025)",
+      "price": 799.99,
+      "originalPrice": 896.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4S?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/lg-b5-oled.jpg",
+      "created": "2026-04-18T14:00:00Z",
+      "score": 1194
+    },
+    {
+      "id": "deal_samsung_s25_ultra_512gb_apr18",
+      "title": "Samsung Galaxy S25 Ultra 512GB (Unlocked, Titanium)",
+      "price": 1049.99,
+      "originalPrice": 1379.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M5?tag=vibekeys-20",
+      "category": "mobile",
+      "imageUrl": "img/samsung-s25-ultra-titanium.jpg",
+      "created": "2026-04-18T14:55:00Z",
+      "score": 1194
+    },
+    {
+      "id": "deal_lg_oled_b1_65_apr18",
+      "title": "LG B1 65\" OLED 4K Smart TV with Alexa",
+      "price": 996.44,
+      "originalPrice": 1422.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4T?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/lg-b1-oled.jpg",
+      "created": "2026-04-18T14:00:00Z",
+      "score": 1193
+    },
+    {
+      "id": "deal_airpods_pro3_hr_apr18",
+      "title": "Apple AirPods Pro 3 with Heart Rate Sensing & Live Translation",
+      "price": 199.99,
+      "originalPrice": 249.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0HXJ9K8M6?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/airpods-pro-3-hr.jpg",
+      "created": "2026-04-18T14:55:00Z",
+      "score": 1193
+    },
+    {
+      "id": "deal_m5_macbook_air_15_apr6",
+      "title": "Apple MacBook Air 15\" M5 16GB/512GB (2026)",
+      "price": 949.0,
+      "originalPrice": 1199.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0FWD6SKL6?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/macbook-air-m4-15.jpg",
+      "created": "2026-04-06T12:00:00Z",
+      "score": 1192
+    },
+    {
+      "id": "deal_samsung_watch_ultra_apr17",
+      "title": "Samsung Galaxy Watch Ultra 47mm Titanium",
+      "price": 449.0,
+      "originalPrice": 549.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4M?tag=vibekeys-20",
+      "category": "mobile",
+      "imageUrl": "img/samsung-watch-ultra.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1192
+    },
+    {
+      "id": "deal_mario_galaxy_bundle_apr18",
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 Bundle (Nintendo Switch 2)",
+      "price": 55.0,
+      "originalPrice": 70.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4U?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "img/mario-galaxy-bundle.jpg",
+      "created": "2026-04-18T14:00:00Z",
+      "score": 1191
+    },
+    {
       "id": "deal_sony_xm5_apr6",
       "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
       "price": 249.99,
@@ -23,6 +251,42 @@
       "imageUrl": "img/sony-xm5-v2.jpg",
       "created": "2026-04-06T12:00:00Z",
       "score": 1190
+    },
+    {
+      "id": "deal_apple_watch_12_apr17",
+      "title": "Apple Watch Series 12 46mm Cellular",
+      "price": 399.0,
+      "originalPrice": 499.0,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4N?tag=vibekeys-20",
+      "category": "mobile",
+      "imageUrl": "img/apple-watch-12.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1188
+    },
+    {
+      "id": "deal_logitech_g735_apr17",
+      "title": "Logitech G735 Aurora Collection Wireless Headset",
+      "price": 129.99,
+      "originalPrice": 179.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4P?tag=vibekeys-20",
+      "category": "gaming",
+      "imageUrl": "img/logitech-g735.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1185
+    },
+    {
+      "id": "deal_anker_737_apr17",
+      "title": "Anker 737 Power Bank 24,000mAh 140W GaN",
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "store": "Amazon",
+      "url": "https://www.amazon.com/dp/B0GQVBJT4Q?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/anker-737.jpg",
+      "created": "2026-04-17T14:00:00Z",
+      "score": 1180
     },
     {
       "id": "deal_bose_qc",
@@ -61,18 +325,6 @@
       "score": 1157
     },
     {
-      "id": "deal_logitech_g515",
-      "title": "Logitech G515 Low-Profile Wireless Gaming Keyboard",
-      "price": 70.0,
-      "originalPrice": 160.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0D6XV1VY2?tag=vibekeys-20",
-      "category": "pc-parts",
-      "imageUrl": "img/logitech-g515.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1156
-    },
-    {
       "id": "deal_razer_blackshark_v2x",
       "title": "Razer BlackShark V2 X Gaming Headset 7.1 Surround",
       "price": 40.0,
@@ -83,18 +335,6 @@
       "imageUrl": "img/razer-blackshark.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1155
-    },
-    {
-      "id": "deal_beats_studio_new",
-      "title": "Beats Studio Pro Wireless Headphones",
-      "price": 160.0,
-      "originalPrice": 349.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0FHM61VTK?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/beats-studio-pro.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1154
     },
     {
       "id": "deal_razer_blackshark_v2pro",
@@ -131,42 +371,6 @@
       "imageUrl": "img/xbox-controller.jpg",
       "created": "2026-04-03T12:00:00Z",
       "score": 1150
-    },
-    {
-      "id": "deal_watch_10_titanium",
-      "title": "Apple Watch Series 10 46mm Cellular Titanium",
-      "price": 449.0,
-      "originalPrice": 749.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DGJ3PQTN?tag=vibekeys-20",
-      "category": "mobile",
-      "imageUrl": "img/apple-watch-10-titanium.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1140
-    },
-    {
-      "id": "deal_beats_solo_4",
-      "title": "Beats Solo 4 Wireless Headphones",
-      "price": 119.99,
-      "originalPrice": 199.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DDQLGDY3?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/beats-solo-4.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1140
-    },
-    {
-      "id": "deal_ue_miniroll",
-      "title": "Ultimate Ears Miniroll Bluetooth Speaker",
-      "price": 60.0,
-      "originalPrice": 99.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DCJ9N5XR?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/ue-miniroll.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1140
     },
     {
       "id": "deal_ring_indoor_cam",
@@ -241,18 +445,6 @@
       "score": 1137
     },
     {
-      "id": "deal_lg_b5_oled",
-      "title": "LG B5 55\" OLED AI 4K Smart TV (2025)",
-      "price": 897.0,
-      "originalPrice": 1299.99,
-      "store": "Best Buy",
-      "url": "https://www.bestbuy.com/site/lg-b5-55-oled?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/lg-b5-oled.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1131
-    },
-    {
       "id": "deal_sonos_ace",
       "title": "Sonos Ace Wireless Headphones",
       "price": 299.0,
@@ -275,6 +467,18 @@
       "imageUrl": "img/echo-show-11.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1132
+    },
+    {
+      "id": "deal_lg_b5_oled",
+      "title": "LG B5 55\" OLED AI 4K Smart TV (2025)",
+      "price": 897.0,
+      "originalPrice": 1299.99,
+      "store": "Best Buy",
+      "url": "https://www.bestbuy.com/site/lg-b5-55-oled?tag=vibekeys-20",
+      "category": "electronics",
+      "imageUrl": "img/lg-b5-oled.jpg",
+      "created": "2026-03-25T14:00:00Z",
+      "score": 1131
     },
     {
       "id": "deal_pixel_buds_pro_2",
@@ -359,164 +563,8 @@
       "imageUrl": "img/airpods-4.jpg",
       "created": "2026-03-25T14:00:00Z",
       "score": 1123
-    },
-    {
-      "id": "deal_sonos_roam_2",
-      "title": "Sonos Roam 2 Portable Bluetooth Speaker",
-      "price": 139.0,
-      "originalPrice": 179.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0CY6S748H?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/sonos-roam-2.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1122
-    },
-    {
-      "id": "deal_airpods_pro3",
-      "title": "Apple AirPods Pro 3 with Heart Rate Sensing",
-      "price": 199.0,
-      "originalPrice": 249.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/airpods-pro-3.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1120
-    },
-    {
-      "id": "deal_apple_watch_11_ti",
-      "title": "Apple Watch Series 11 46mm Titanium",
-      "price": 649.0,
-      "originalPrice": 799.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0FQG8HF85?tag=vibekeys-20",
-      "category": "mobile",
-      "imageUrl": "img/apple-watch-11-titanium.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1119
-    },
-    {
-      "id": "deal_airpods_4_anc",
-      "title": "Apple AirPods 4 with Active Noise Cancellation",
-      "price": 149.0,
-      "originalPrice": 179.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DGJ7HYG1?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/airpods-4-anc.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1117
-    },
-    {
-      "id": "deal_m4_macbook_air_13",
-      "title": "Apple MacBook Air 13\" M4 16GB/512GB",
-      "price": 949.0,
-      "originalPrice": 1199.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DZD9NV7L?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/macbook-air-m4-13.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1121
-    },
-    {
-      "id": "deal_m4_macbook_air_15",
-      "title": "Apple MacBook Air 15\" M4 16GB/512GB",
-      "price": 1099.0,
-      "originalPrice": 1399.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0DZDC2XD2?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/macbook-air-m4-15.jpg",
-      "created": "2026-03-25T14:00:00Z",
-      "score": 1121
-    },
-    {
-      "id": "deal_ipad_air_11_m4_apr6",
-      "title": "iPad Air 11\" M4 128GB (2026)",
-      "price": 559.0,
-      "originalPrice": 599.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0GQVBJT4J?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/ipad-air-m4.jpg",
-      "created": "2026-04-06T12:00:00Z",
-      "score": 1195
-    },
-    {
-      "id": "deal_m5_macbook_air_15_apr6",
-      "title": "Apple MacBook Air 15\" M5 16GB/512GB (2026)",
-      "price": 949.0,
-      "originalPrice": 1199.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0FWD6SKL6?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/macbook-air-m4-15.jpg",
-      "created": "2026-04-06T12:00:00Z",
-      "score": 1192
-    },
-    {
-      "id": "deal_sony_inzone_purple_apr17",
-      "title": "Sony INZONE Buds Glass Purple Wireless Gaming Earbuds",
-      "price": 178.0,
-      "originalPrice": 239.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0GQVBJT4L?tag=vibekeys-20",
-      "category": "gaming",
-      "imageUrl": "img/sony-inzone-purple.jpg",
-      "created": "2026-04-17T14:00:00Z",
-      "score": 1195
-    },
-    {
-      "id": "deal_samsung_watch_ultra_apr17",
-      "title": "Samsung Galaxy Watch Ultra 47mm Titanium",
-      "price": 449.0,
-      "originalPrice": 549.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0GQVBJT4M?tag=vibekeys-20",
-      "category": "mobile",
-      "imageUrl": "img/samsung-watch-ultra.jpg",
-      "created": "2026-04-17T14:00:00Z",
-      "score": 1192
-    },
-    {
-      "id": "deal_apple_watch_12_apr17",
-      "title": "Apple Watch Series 12 46mm Cellular",
-      "price": 399.0,
-      "originalPrice": 499.0,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0GQVBJT4N?tag=vibekeys-20",
-      "category": "mobile",
-      "imageUrl": "img/apple-watch-12.jpg",
-      "created": "2026-04-17T14:00:00Z",
-      "score": 1188
-    },
-    {
-      "id": "deal_logitech_g735_apr17",
-      "title": "Logitech G735 Aurora Collection Wireless Headset",
-      "price": 129.99,
-      "originalPrice": 179.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0GQVBJT4P?tag=vibekeys-20",
-      "category": "gaming",
-      "imageUrl": "img/logitech-g735.jpg",
-      "created": "2026-04-17T14:00:00Z",
-      "score": 1185
-    },
-    {
-      "id": "deal_anker_737_apr17",
-      "title": "Anker 737 Power Bank 24,000mAh 140W GaN",
-      "price": 89.99,
-      "originalPrice": 129.99,
-      "store": "Amazon",
-      "url": "https://www.amazon.com/dp/B0GQVBJT4Q?tag=vibekeys-20",
-      "category": "electronics",
-      "imageUrl": "img/anker-737.jpg",
-      "created": "2026-04-17T14:00:00Z",
-      "score": 1180
     }
   ],
-  "lastUpdated": "2026-04-17T14:00:00Z",
+  "lastUpdated": "2026-04-18T16:45:00Z",
   "affiliateTag": "vibekeys-20"
 }
